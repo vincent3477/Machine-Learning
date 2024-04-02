@@ -1,0 +1,1066 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09
+3	1221 m/s	0.1819	FOOTBALL	Fremont, Santa Clarita, Fresno	0.4284	Tennis	0.6584	88	Los Angeles, Santa Ana	0.6785
+2	1079 m/s	0.5138	volleyball	Los Angeles	0.4327	running, golf	0.7765	1140	San Francisco	0.8071
+1	830 m/s	0.5483	volleyball	Long Beach, San Diego	0.7751	volleyball, soccer	0.419	1297	Moreno Valley	0.7987
+2	1173 m/s	0.5561	track & field	Los Angeles, Moreno Valley, Anaheim	0.5675	baseball	0.434	532	Chula Vista, Fremont, Bakersfield, San Francisco, Santa Clarita	1.2501
+3	1124 m/s	0.14	badminton	Chula Vista, Santa Clarita, Bakersfield, Stockton, Fremont	0.5653	tennis	1.0012	654	Riverside	0.469
+0	843 m/s	0.5624	tennis	San Jose	0.7317	badminton	0.9396	32	Sacramento	0.6443
+1	742 m/s	1.238	track & field	Modesto	0.6568	football	0.7868	573	Moreno Valley	0.7434
+4	590 m/s	0.2295	soccer	Sacramento	0.9008	motor sports, ice hockey, basketball	0.3348	1067	Long Beach, Anaheim	1.1521
+2	1239 m/s	-0.4405	running	Moreno Valley, Los Angeles	0.301	baseball	0.9515	627	Chula Vista, Fresno, Bakersfield, Fremont	0.4263
+1	905 m/s	0.7773	boxing	San Diego	0.7124	football, volleyball	0.8988	680	San Bernardino	0.6373
+0	905 m/s	0.1337	basketball	Riverside, Santa Ana, Irvine	0.1903	badminton	0.5254	249	San Diego	1.0562
+2	911 m/s	-0.0772	track & field	Moreno Valley	-0.1551	baseball	0.6723	115	Santa Clarita, Fremont, Bakersfield	1.1856
+4	214 m/s	0.6075	running	Fresno, San Bernardino, Fremont, Stockton, Chula Vista	0.8846	boxing, basketball	0.3107	483	San Jose, Long Beach, Anaheim	0.327
+2	1533 m/s	0.4468	boxing	Moreno Valley	0.2955	golf	1.1786	128	Los Angeles	1.1237
+3	801 m/s	0.1443	baseball	Bakersfield, San Bernardino	0.3551	motor sports, boxing, basketball	0.9915	-121	San Diego	0.8558
+3	694 m/s	0.024	BASEBALL	Fresno, Bakersfield, San Francisco, Santa Clarita, San Bernardino, Stockton	0.7843	track & field	1.6315	628	Stockton	0.6326
+2	1152 m/s	0.2742	track & field	Oakland, Los Angeles	0.594	golf	0.9372	108	Bakersfield, Fremont, Santa Clarita	0.9623
+2	1024 m/s	0.5408	track & field	Anaheim, Moreno Valley	0.1312	running	0.614	1082	San Francisco	0.5277
+2	1136 m/s	0.2601	track & field	Anaheim, Los Angeles, Moreno Valley	0.3065	baseball, running	1.2803	-411	Santa Clarita, Chula Vista, Bakersfield	0.8385
+2	867 m/s	0.3575	VOLLEYBALL	Oakland, Los Angeles, Moreno Valley	0.0598	baseball	1.1686	-154	Santa Clarita, Fresno, Fremont, Chula Vista, Bakersfield	1.2516
+1	1482 m/s	0.5619	golf	San Diego, Modesto	0.9061	soccer, football	1.2973	478	San Bernardino	1.2508
+1	1232 m/s	0.3915	boxing	Chula Vista, Fremont, San Francisco, Stockton, Bakersfield	1.4544	football, volleyball	0.6353	857	san bernardino	1.0495
+0	1111 m/s	1.2361	ice hockey	Santa Ana, Riverside, Irvine	0.1444	badminton	1.1545	-303	San Diego	0.3936
+1	891 m/s	0.1931	?	Anaheim	0.6485	volleyball	0.9544	1245	Moreno Valley	0.554
+0	752 m/s	0.6657	tennis	San Jose, Riverside	0.6856	badminton	0.9384	396	Sacramento	0.1164
+1	1000 m/s	0.4625	golf	San Diego	1.1088	soccer	0.7878	732	San Bernardino	1.051
+1	608 m/s	0.5961	golf	Modesto, Long Beach	0.8389	football, volleyball	0.9155	232	Moreno Valley	1.3518
+2	1067 m/s	0.4279	volleyball	Oakland, Moreno Valley, Anaheim	0.1824	running	1.2414	?	Fremont	0.9192
+1	1290 m/s	0.438	golf	Long Beach, San Diego	0.5603	football	1.1993	823	Moreno Valley	0.5873
+4	867 m/s	0.7032	running	Sacramento	1.1062	boxing, basketball, motor sports	-0.2983	1177	Anaheim, Long Beach	1.1992
+2	1101 m/s	0.0465	volleyball	Anaheim, Moreno Valley	-0.1587	ice hockey	1.4219	928	Bakersfield, Fresno, Fremont, Chula Vista	0.8932
+3	384 m/s	0.5886	baseball	Fremont, Stockton	1.0693	tennis	1.117	1280	Modesto, Riverside, Los Angeles, Stockton	1.163
+1	968 m/s	1.1921	boxing	San Diego	1.1235	Football	1.0326	699	Moreno Valley	0.9001
+2	938 m/s	0.1951	volleyball	Oakland		baseball, golf	1.0241	250	Chula Vista	0.8028
+1	1404 m/s	0.4947	Golf	Sacramento	0.8446	football, volleyball	1.3953	1158	sAN bERNARDINO	0.7538
+0	900 m/s	0.8294	basketball	Irvine, San Jose, Santa Ana	0.6138	badminton	1.2507	419	Sacramento	0.403
+0	1053 m/s	0.4231	ice hockey	Santa Ana, Irvine, Riverside	0.4557	badminton	0.7399	305	San Diego	0.2266
+2	572 m/s	0.8309	volleyball	Sacramento	0.2918	baseball, golf	1.0846	672	San Francisco, Chula Vista, Fremont	1.0579
+0	1171 m/s	-0.1761	basketball	Santa Ana, Riverside, Irvine	0.9392	badminton	0.4368	-59	San Diego	0.6545
+0	915 m/s	0.0725	tennis	San Jose, Irvine	0.6419	badminton	0.7257	41	San Diego	-0.0295
+1	710 m/s	0.0578	boxing	San Diego	1.363	volleyball	0.5097	772	Moreno Valley	0.6488
+2	739 m/s	0.387	motor sports	Oakland	0.2019	golf, baseball	0.6781	663	San Francisco, Fresno, Chula Vista	1.5795
+0	759 m/s	0.4996	tennis	San Jose	0.1624	badminton	0.7658	-5	San Bernardino	0.5603
+1	1102 m/s	0.5403	Golf	Long Beach	0.8215	football	1.0795	805	Moreno Valley	0.4354
+0	984 m/s	-0.116	tennis	Santa Ana, Riverside	0.8159	BADMINTON	0.743	-711	Oakland, Long Beach	0.3913
+4	823 m/s	0.843	baseball	Sacramento	0.8709	basketball, motor sports	0.4219	1385	Long Beach, Oakland	0.9126
+4	-388 m/s	-0.0889	soccer	Sacramento	0.5214	boxing	-0.0788	1302	San Jose, Oakland, Anaheim	0.5245
+1	660 m/s	0.9631	boxing	San Diego	1.1149	volleyball	1.1563	973	San Bernardino	0.7291
+2	1071 m/s	0.7424	volleyball	Fresno, Stockton, Fremont, Santa Clarita	0.7663	running, baseball	0.6412	832	San Francisco	1.0169
+3	807 m/s	0.8263	badminton	Bakersfield, Fresno, Fremont, Chula Vista	0.2869	tennis	1.5952	-139	Riverside, Santa Ana	1.1911
+4	647 m/s	0.6924	soccer	Sacramento	0.6136	motor sports	0.2299	575	Long Beach, Anaheim, Oakland	0.8706
+2	1019 m/s	0.3358	motor sports	Sacramento	1.0699	running	1.3932	507	Fresno, Santa Clarita	0.6738
+1	1050 m/s	0.3281	track & field	Long Beach, Modesto	1.2138	volleyball, soccer	0.8647	921	San Bernardino	1.1072
+2	822 m/s	0.3557	motor sports	Los Angeles	0.5685	running, golf	0.8156	1208	San Francisco, Fremont, Bakersfield, Fresno	1.4457
+2	1307 m/s	0.1672	track & field	Los Angeles	0.5079	baseball, golf	0.7324	968	Chula Vista, San Francisco, Fremont, Bakersfield, Fresno	1.0596
+0	1058 m/s	0.4099	basketball	Riverside, Santa Ana	0.9642	badminton	0.3053	140	San Diego	0.4103
+0	1568 m/s	0.2043	basketball	Riverside	0.6904	badminton	0.9007	-110	San Diego	0.9286
+4	447 m/s	0.9876	soccer	Sacramento	0.2235	ice hockey	0.4769	1621	Oakland, Long Beach	0.4376
+4	503 m/s	1.1001	Boxing	Sacramento	0.7862	ice hockey, motor sports	-0.4131	336	San Jose	0.4477
+1	1158 m/s	0.7224	boxing	San Diego, Long Beach	0.7215	football, soccer	1.3742	348	San Bernardino	0.7407
+3	850 m/s	0.3974	football	Bakersfield, San Francisco, Fresno	0.67	track & field	1.2399	-142	Stockton, Los Angeles, Riverside, Modesto	1.1866
+3	669 m/s	0.258	badminton	Bakersfield, Chula Vista, Santa Clarita, Stockton, San Bernardino	0.8576	tennis	0.8835	20	Riverside	0.8865
+2	1093 m/s	0.7177	track & field	Oakland	0.6499	golf, running	1.0068	766	Santa Clarita	0.976
+4	413 m/s	0.2713	running	Sacramento	0.1901	boxing	0.2426	80	Oakland, Long Beach	1.0031
+2	1112 m/s	0.474	volleyball	Oakland, Moreno Valley	0.307	motor sports, basketball, ice hockey	0.4661	482	Chula Vista, Santa Clarita	0.9915
+4	1042 m/s	0.2283	motor sports	Sacramento	NULL	motor sports, boxing, basketball	0.8731	589	Anaheim, San Jose, Oakland	0.568
+2	1151 m/s	0.8676	track & field	Oakland	0.0789	running, baseball	0.8567	783	Santa Clarita, Bakersfield, San Francisco	1.0095
+4	930 m/s	0.5977	soccer	Sacramento	1.3612	motor sports, ice hockey, basketball	0.1591	894	Anaheim, Long Beach, Oakland	0.6018
+0	1269 m/s	0.2791	tennis	Santa Ana	0.5352	badminton	1.1908	283	Sacramento	0.3561
+3	855 m/s	0.1541	badminton	Stockton, Bakersfield, San Bernardino, San Francisco, Fresno, Chula Vista	0.3803	track & field	1.206	640	Modesto	0.3714
+2	1049 m/s	0.4784	motor sports	Oakland	0.1358	running	0.9088	737	Fresno, Chula Vista, San Francisco, Fremont, Bakersfield	1.2553
+4	445 m/s	0.6763	soccer	Sacramento	1.5018	ice hockey, motor sports	0.0975	1127	San Jose, Anaheim	0.782
+2	1278 m/s	0.4626	boxing	Los Angeles	0.5407	running	0.2321	741	Chula Vista, Fresno, San Francisco	1.0396
+0	998 m/s	0.2657	golf	Riverside	0.2582	badminton	0.7057	-348	San Diego	0.6398
+4	569 m/s	0.8447	running	Sacramento	0.511	motor sports, boxing	0.1612	1928	Sacramento	1.0128
+0	846 m/s	0.6532	tennis	Santa Ana, Irvine, Riverside	0.8184	badminton	0.7722	379	San Diego	0.8121
+2	1622 m/s	0.7709	motor sports	Sacramento	0.2564	running	0.9292	934	Fresno, Bakersfield, Chula Vista, San Francisco	?
+0	1119 m/s	0.0979	basketball	SACRAMENTO	0.6126	badminton	0.6322	600	Sacramento	0.9362
+3	1358 m/s	0.3094	football	San Francisco, Fremont	0.7203	tennis	0.6666	644	santa ana, stockton, los angeles, riverside	1.5673
+3	934 m/s	0.0032	badminton	Fremont, Fresno	0.1411	track & field	1.6051	42	Modesto, Los Angeles, Riverside	1.1459
+1	922 m/s	0.9806	boxing	Modesto	1.0399	football, volleyball	0.3101	837	Moreno Valley	0.7093
+1	484 m/s	0.3804	boxing	San Diego	1.1073	football, volleyball	1.0964	806	San Bernardino	1.1242
+3	824 m/s	-0.1106	baseball	Bakersfield, San Francisco, Chula Vista, Stockton, San Bernardino, Fresno	0.4905	track & field	0.798	360	Riverside, Los Angeles, Santa Ana, Modesto	0.6804
+1	855 m/s	0.334	boxing	Modesto, Long Beach	0.687	volleyball, soccer	1.2527	212	Moreno Valley	0.5635
+2	1266 m/s	0.2439	volleyball	Moreno Valley	0.2421	GOLF	None	1210	Fremont, Fresno, Bakersfield, Chula Vista	1.1799
+0	1188 m/s	0.4594	basketball	Santa Ana, San Jose	0.7673	badminton	1.0563	-551	Sacramento	0.799
+0	1400 m/s	0.3239	running	IRVINE, SANTA ANA, SAN JOSE	0.4437	badminton	0.9523	114	Sacramento	0.4142
+4	255 m/s	0.5551	soccer	Fremont, Stockton	0.687	basketball, motor sports, ice hockey	0.4995	1160	Oakland, Anaheim	0.5296
+3	810 m/s	-0.0669	tennis	Fresno, Fremont, Bakersfield, San Bernardino, Chula Vista	0.2795	tennis	1.1156	429	Irvine, Riverside	0.8304
+3	1167 m/s	-0.1486	football	Santa Clarita, Fresno, San Bernardino, Stockton, Fremont, Chula Vista, Bakersfield	0.1042	tennis	0.861	272	Riverside, Irvine, Los Angeles, Santa Ana, Stockton	0.6208
+2	1071 m/s	0.339	track & field	Moreno Valley, Oakland, Los Angeles	0.2855	golf, running	0.8796	617	Santa Clarita, Fresno, San Francisco	0.9013
+2	1345 m/s	0.8889	track & field	Moreno Valley, Los Angeles, Anaheim	0.2242	basketball, motor sports	1.1561	400	Bakersfield, Fresno, Fremont, Santa Clarita, San Francisco	1.2988
+4	323 m/s	-0.2323	running	San Diego	0.8121	ice hockey, basketball, boxing	0.7078	1251	Fresno, Bakersfield, San Francisco	0.4051
+4	121 m/s	1.0797	running	Sacramento	1.3158	boxing	0.1631	715	Oakland, Anaheim	0.5297
+2	854 m/s	0.3887	track & field	Anaheim, Moreno Valley	0.7908	golf, baseball	1.4111	305	Chula Vista	0.5862
+3	1007 m/s	0.0412	baseball	Fresno	0.6006	track & field	0.9171	-1	Irvine, Riverside, Santa Ana, Modesto	0.8624
+3	1145 m/s	-0.071	badminton	San Bernardino, Bakersfield, Fremont	0.451	track & field	1.3325	-66	Riverside	1.7399
+1	584 m/s	0.4673	boxing	Long Beach	0.5161	motor sports	1.166	-239	Moreno Valley	0.6086
+2	1052 m/s	0.3922	volleyball	Anaheim	0.151	golf	1.3434	1084	San Francisco	0.9163
+3	827 m/s	0.0151	football	Santa Clarita, Bakersfield, Fresno, Fremont, Chula Vista, San Francisco, Stockton	0.4274	track & field	1.2556	-293	Modesto, Irvine, Santa Ana, Riverside	1.6753
+2	1195 m/s	1.0712	motor sports	Los Angeles	0.3593	baseball	0.9983	398	San Bernardino	0.4574
+2	996 m/s	0.948	volleyball	Anaheim, Oakland	-0.3742	golf	0.9217	1066	Fremont, Santa Clarita, Bakersfield	1.1693
+0	761 m/s	1.2665	basketball	San Jose, Riverside, Irvine	0.7117	badminton	0.4951	235	Sacramento	-0.2344
+1	953 m/s	0.4603	golf	San Diego	0.6829	volleyball	0.6801	935	Moreno Valley	1.3834
+2	967 m/s	-0.3688	volleyball	Oakland	0.3772	baseball, running	0.8335	685	San Francisco, Chula Vista, Bakersfield	0.3945
+4	608 m/s	0.9376	soccer	Sacramento	1.0291	basketball, motor sports	0.4398	198	San Jose	0.8963
+1	1722 m/s	0.6039	track & field	Long Beach	0.7024	soccer, volleyball	1.1585	779	San Bernardino	0.3836
+2	961 m/s	0.4592	track & field	Anaheim, Los Angeles, Oakland	0.1814	running, baseball	0.7356	1418	Santa Clarita, Chula Vista, Fremont, Bakersfield, San Francisco	0.3201
+1	670 m/s	0.7491	boxing	Sacramento	0.7567	tennis	1.2833	779	San Bernardino	0.9736
+3	1204 m/s	0.1718	baseball	Chula Vista, Fresno, Fremont, San Bernardino, Stockton, San Francisco	0.9465	n/a	0.9814	-566	Modesto, Santa Ana, Irvine	0.7586
+3	983 m/s	-0.1481	football	Chula Vista, San Bernardino	0.4535	track & field	1.4496	590	Irvine, Modesto	0.6039
+3	1090 m/s	0.6091	baseball	San Bernardino, Bakersfield, San Francisco, Chula Vista, Santa Clarita, Fresno, Fremont	1.059	track & field	1.307	247	Santa Ana	1.1732
+1	703 m/s	0.3498	boxing	Modesto	0.8337	soccer	1.1594	1075	Moreno Valley	0.8459
+0	697 m/s	0.8421	tennis	Riverside, Santa Ana, San Jose	0.5943	badminton	0.5517	606	Sacramento	0.4368
+4	542 m/s	0.5281	soccer	sacramento	0.7597	motor sports	0.6613	265	Anaheim, Oakland, San Jose	1.1049
+1	1238 m/s	0.2055	ice hockey	San Diego	0.8894	football, soccer	1.7441	1610	Los Angeles, Riverside, Stockton, Santa Ana, Modesto	0.9899
+0	1103 m/s	0.2886	basketball	San Jose	0.8731	badminton	1.1281	530	Riverside	-0.3077
+0	850 m/s	0.9021	ice hockey	Riverside	0.765	badminton	1.1257	-347	Fremont, Chula Vista, San Francisco	0.6305
+4	228 m/s	0.8805	running	Sacramento	1.0814	motor sports	NULL	919	Long Beach, Oakland	0.5726
+4	238 m/s	0.2975	tennis	Sacramento	0.8749	motor sports	0.6114	1497	Oakland	0.7389
+0	780 m/s	0.4871	baseball	Riverside, San Jose, Irvine	1.0332	badminton	1.0877	-292	Sacramento	0.624
+3	309 m/s	-0.5177	football	Fremont, San Francisco, Santa Clarita, Bakersfield, San Bernardino, Chula Vista	0.4249	track & field	0.2657	278	Irvine, Stockton	1.3288
+4	126 m/s	0.7575	soccer	Sacramento	0.5072	ice hockey, motor sports, basketball	0.6021	910	Long Beach, Anaheim	0.2975
+4	202 m/s	0.8074	running	Sacramento	0.8936	None	0.1366	201	San Bernardino	0.9401
+4	748 m/s	0.8177	running	Irvine, Santa Ana	0.7277	ice hockey	0.0976	1104	Anaheim, San Jose, Oakland	0.8036
+3	1136 m/s	0.4535	badminton	San Francisco, Fresno, Stockton	0.3785	tennis	0.6506	-312	Moreno Valley	1.6005
+4	871 m/s	0.7295	running	Sacramento	0.8493	ice hockey, boxing	0.4608	1128	Long Beach	1.2821
+3	851 m/s	0.3143	badminton	Long Beach	0.1451	tennis	1.109	343	Irvine, Stockton, Santa Ana, Riverside	0.711
+2	1035 m/s	0.5144	volleyball	Los Angeles, Anaheim	-0.4132	baseball	0.5131	636	Bakersfield, Fresno, San Francisco	0.67
+1	1364 m/s	0.7996	motor sports	San Jose, Santa Ana	0.8103	baseball	0.7944	702	San Bernardino	1.3868
+0	1133 m/s	0.3612	basketball	San Bernardino, Santa Clarita, Bakersfield, Stockton, Chula Vista	0.5424	badminton	1.3023	6	Sacramento	0.3424
+0	834 m/s	0.5288	tennis	San Jose, Santa Ana	0.9211	badminton	0.4823	-898	Sacramento	-0.2454
+3	883 m/s	0.0529	baseball	Irvine, Santa Ana, San Jose	0.6417	tennis	1.1637	435	Santa Ana, Riverside, Stockton, Irvine	0.9917
+0	1543 m/s	0.2912	tennis	Santa Ana, San Jose, Irvine	0.0941	badminton	0.6055	79	San Diego	0.4943
+0	1066 m/s	-0.1371	golf	Irvine	0.8198	badminton	1.0546	155	Sacramento	0.2442
+3	1464 m/s	-0.1864	soccer	Fremont	0.3279	track & field	0.8858	542	Los Angeles, Modesto	0.7889
+2	816 m/s	0.2119	football	Los Angeles	0.1578	baseball	0.1881	248	Chula Vista, Santa Clarita	1.161
+4	871 m/s	0.54	running	Sacramento	0.9299	boxing, ice hockey	0.2788	940	San Jose	1.586
+3	1203 m/s	-0.0443	football	Bakersfield	0.1994	tennis	0.9572	58	Stockton	0.9008
+1	1218 m/s	0.088	boxing	mODESTO, sAN dIEGO	1.1117	soccer, football	1.5056	638	Moreno Valley	0.647
+2	943 m/s	0.003	motor sports	Oakland	0.6237	baseball	1.1131	459	Santa Clarita, Fresno	0.652
+0	1081 m/s	0.5705	basketball	Riverside, Irvine	0.6507	badminton	0.4968	53	San Diego	0.1672
+3	1346 m/s	-0.3207	football	Fresno, Chula Vista, Stockton, Fremont	0.7066	tennis	0.8401	164	Long Beach, Anaheim	0.9283
+1	928 m/s	-0.0144	boxing	Modesto	0.8981	football	0.9696	1334	Moreno Valley	1.2439
+0	1158 m/s	1.06	tennis	Santa Ana	0.5331	badminton	0.9371	225	San Diego	0.1331
+1	710 m/s	0.6231	golf	Long Beach, Modesto	1.0001	running, golf	0.8096	1293	Chula Vista, Santa Clarita, Fremont	1.1572
+3	1221 m/s	0.8085	baseball	San Bernardino, Santa Clarita, San Francisco, Bakersfield	0.5647	tennis	1.1503	209	Riverside, Santa Ana, Stockton, Irvine, Los Angeles	1.1317
+2	1142 m/s	0.7135	motor sports	Oakland	0.383	golf	0.8505	716	san francisco, santa clarita, fremont, fresno, chula vista	1.0771
+1	1453 m/s	0.9722	boxing	Anaheim, Oakland, Los Angeles	1.5635	soccer, volleyball	1.0377	616	mORENO vALLEY	1.3046
+1	951 m/s	0.2013	boxing	San Diego	0.534	volleyball, football	1.2519	710	San Bernardino	1.1617
+0	663 m/s	-0.0596	basketball	Riverside	0.4145	N/A	0.9814	-4	San Diego	0.491
+1	1375 m/s	0.6729	boxing	San Diego, Modesto	1.0986	football	0.6927	1226	San Bernardino	1.4894
+0	689 m/s	-0.3473	tennis	San Jose	0.8528	badminton	0.5033	-483	Sacramento	0.2734
+2	1011 m/s	0.3984	golf	Moreno Valley, Oakland	0.5401	running	0.9335	473	Bakersfield, Fremont, San Francisco	0.8019
+1	646 m/s	0.5774	football	Modesto, San Diego	0.6718	soccer, volleyball	0.6721	835	Moreno Valley	0.3638
+1	714 m/s	-0.0012	golf	Modesto	1.2582	football, soccer	0.9521	1258	San Bernardino	1.6233
+4	746 m/s	0.7479	running	Sacramento	1.1563	Boxing, Motor Sports	0.3299	1113	Anaheim	1.0676
+2	813 m/s	0.5814	volleyball	Los Angeles	-0.3541	running, golf	0.7575	596	Santa Clarita, San Francisco, Fremont	0.4332
+2	1040 m/s	-0.2889	track & field	Moreno Valley, Anaheim, Oakland	0.1482	golf, baseball	0.8134	1225	Fremont	1.1509
+3	1101 m/s	-0.1557	badminton	Sacramento	0.7023	track & field	0.6169	173	Santa Ana, Irvine, Stockton, Los Angeles, Riverside	0.5062
+4	1157 m/s	0.5662	running	Sacramento	0.6561	ice hockey	0.2107	432	San Jose	0.4792
+4	489 m/s	0.3043	running	Sacramento	0.8025	motor sports, boxing, ice hockey	0.5825	None	lONG bEACH	1.0995
+3	854 m/s	0.4116	football	San Francisco, Bakersfield, Stockton, San Bernardino, Chula Vista, Fremont	0.5761	TRACK & FIELD	1.0348	-494	Modesto, Irvine	0.9787
+2	806 m/s	NULL	motor sports	Moreno Valley, Anaheim, Los Angeles	0.4262	baseball	0.4628	820	San Francisco, Santa Clarita	0.9819
+0	965 m/s	0.1255	track & field	Irvine	0.191	badminton	0.6872	-735	San Diego	0.1722
+4	389 m/s	0.6399	soccer	Sacramento	1.0168	motor sports	0.5204	860	San Jose, Long Beach, Anaheim	0.7421
+3	1488 m/s	-0.122	badminton	San Jose, Santa Ana, Irvine	0.4675	track & field	0.4599	488	Stockton, Irvine, Los Angeles	0.7376
+3	994 m/s	0.2131	badminton	Stockton, Fremont, San Francisco, Chula Vista, Santa Clarita, Fresno, San Bernardino	0.3599	track & field	1.3256	319	Modesto, Stockton	0.9107
+3	1332 m/s	0.2848	running	Santa Clarita, Bakersfield, Stockton, Fresno	0.5551	track & field	0.8797	301	Sacramento	1.1684
+3	680 m/s	0.293	football	Fresno, San Francisco, Bakersfield, Santa Clarita, Chula Vista, Fremont	0.0831	track & field	0.9477	1334	Stockton, Irvine, Modesto	0.8061
+2	1086 m/s	0.6098	motor sports	Moreno Valley	-0.0566	running	0.6037	1035	San Francisco, Santa Clarita	1.3266
+0	902 m/s	0.5516	VOLLEYBALL	Riverside, Irvine, Santa Ana	0.4318	badminton	0.6204	-761	Sacramento	0.7422
+2	855 m/s	0.2765	track & field	Anaheim	0.0182	running, baseball	1.0935	860	Fresno	1.0032
+0	411 m/s	0.2164	ice hockey	Irvine, Riverside	0.8636	badminton	1.1742	631	San Diego	-0.0738
+2	487 m/s	0.3272	motor sports	Oakland, Anaheim, Moreno Valley	0.0043	baseball, running	0.3111	747	Long Beach, Anaheim	1.3361
+2	1053 m/s	0.6011	volleyball	Los Angeles, Anaheim	0.2548	baseball, golf	0.9592	310	Chula Vista, San Francisco, Santa Clarita, Fremont	1.0606
+3	547 m/s	0.1167	football	San Francisco, Fresno, San Bernardino, Santa Clarita, Stockton	0.907	track & field	1.1872	1201	Modesto, Santa Ana, Stockton	1.119
+1	689 m/s	0.3063	boxing	Modesto, San Diego	1.2364	track & field	1.5889	845	Santa Clarita, Fresno	0.7928
+0	920 m/s	0.2988	ice hockey	San Jose	0.8076	badminton	1.413	-435		0.4728
+1	680 m/s	0.5754	golf	Modesto	0.9479	volleyball, soccer	1.0777	1024	Moreno Valley	0.6196
+3	1292 m/s	-0.2558	badminton	San Francisco, Fremont, Santa Clarita, Bakersfield, Fresno, Stockton, Chula Vista	1.0271	track & field	1.6255	406	Los Angeles, Riverside	0.7333
+1	962 m/s	0.6382	boxing	Riverside	0.8401	volleyball	1.2256	476	San Diego	1.1159
+3	1663 m/s	0.0667	badminton	Fremont, Chula Vista, Fresno, Stockton, San Bernardino, Bakersfield, San Francisco	0.9048	TRACK & FIELD	1.1766	38	Santa Ana, Riverside, Stockton	0.5099
+2	1054 m/s	0.4174	volleyball	Los Angeles, Oakland	0.6249	baseball	0.8398	849	cHULA vISTA, sAN fRANCISCO, sANTA cLARITA	0.8734
+2	1192 m/s	0.3863	volleyball	Oakland	0.201	golf, baseball	0.6836	561	Fremont, Fresno, Bakersfield, Santa Clarita	0.9539
+3	1250 m/s	0.3093	football	Santa Clarita	0.0118	tennis	1.3306	-553	Chula Vista, Bakersfield	1.3534
+4	71 m/s	0.5065	running	Sacramento	0.7726	boxing	-0.3048	464	Oakland, Long Beach, San Jose	1.0875
+3	937 m/s	-0.2558	baseball	Santa Clarita, San Francisco, Fremont, Bakersfield	0.3944	tennis	1.0322	638	Los Angeles, Santa Ana, Stockton, Irvine	0.9407
+3	583 m/s	-0.2963	N/A	Sacramento	0.8076	tennis	1.2867	109	Stockton, Irvine	1.487
+3	1256 m/s	0.2824	baseball	San Bernardino, Santa Clarita, Bakersfield, Fremont, Chula Vista, Fresno, San Francisco	0.3349	track & field	0.8474	227	Riverside	1.0219
+0	925 m/s	0.4047	ice hockey	San Jose, Santa Ana, Irvine	0.6126	badminton	0.8302	-713	San Diego	0.6014
+2	1508 m/s	0.7127	VOLLEYBALL	Los Angeles, Anaheim	0.0076	baseball	1.2748	610	Long Beach	1.6311
+0	986 m/s	0.9638	Basketball	Riverside, Irvine	1.1088	badminton	0.8917	-81	Sacramento	-0.2512
+4	680 m/s	0.8725	soccer	SACRAMENTO	0.5956	ice hockey, basketball, boxing	0.3546	1456	Los Angeles, Stockton, Modesto, Irvine	0.687
+0	666 m/s	0.6787	tennis	?	0.6831	badminton	1.0882	589	Santa Ana, Riverside, Modesto	0.1249
+4	-50 m/s	0.7962	soccer	Sacramento	1.1687	boxing, basketball	0.2022	513	Long Beach, Anaheim, Oakland	1.217
+3	1030 m/s	0.0836	football	San Bernardino, San Francisco, Fresno, Santa Clarita, Chula Vista, Bakersfield, Stockton	0.4087	tennis	0.8833	594	San Bernardino	1.3428
+2	996 m/s	0.511	basketball	Anaheim	0.1207	running, baseball	0.7519	1042	Fresno	0.9025
+1	872 m/s	0.0929	boxing		0.467	soccer, volleyball	0.8024	-528	Moreno Valley	0.9399
+4	453 m/s	0.7668	running	Sacramento	0.729	boxing, motor sports, ice hockey	0.3038	1420	Irvine, Riverside, Modesto	0.5822
+4	605 m/s	0.5454	running	Sacramento	0.9344	boxing, ice hockey	0.3218	813	N/A	0.4495
+4	538 m/s	-0.1883	SOCCER	Sacramento	0.6445	ice hockey	0.4438	332	Oakland, Long Beach	1.0746
+1	777 m/s	0.3802	motor sports	Chula Vista, San Bernardino, Fresno, Fremont, San Francisco, Bakersfield	1.0179	volleyball, football	0.7693	634	Moreno Valley	0.5913
+3	1320 m/s	0.1899	baseball	Santa Clarita	0.4157	tennis	0.6463	336	Riverside, Irvine, Modesto	0.6684
+3	905 m/s	0.5263	boxing	Fresno, San Bernardino, San Francisco, Bakersfield, Fremont	0.4286	tennis	1.2493	9	Modesto, Los Angeles, Riverside, Irvine, Stockton	0.8638
+4	757 m/s	0.6272	soccer	Sacramento	1.3454	boxing	0.4698	1077	Oakland, Long Beach	0.9919
+4	941 m/s	0.5281	soccer	Sacramento	1.2756	boxing, motor sports	0.2641	1713	Anaheim	1.0564
+2	744 m/s	-0.1424	track & field	Anaheim, Los Angeles	0.4125	golf	1.1867	101	Fremont	0.7516
+1	581 m/s	0.2729	golf	Modesto	0.8423	track & field	0.7259	155	Moreno Valley	0.4725
+0	975 m/s	0.7112	basketball	sAN jOSE, iRVINE, rIVERSIDE	0.5312	badminton	0.9252	-446	San Diego	0.2032
+0	581 m/s	-0.0261	ice hockey	Irvine, Santa Ana, San Jose	0.6087	badminton	1.1027	-536	San Bernardino	0.1983
+2	541 m/s	0.5639	track & field	Oakland, Moreno Valley	0.1367	baseball	0.9892	1211	Fresno, Fremont	0.6458
+4	80 m/s	-0.2573	RUNNING	Sacramento	1.4184	basketball	0.7432	1144	Oakland	1.2631
+1	943 m/s	0.6117	boxing	Long Beach	1.1135	football	1.3762	860	Moreno Valley	0.7144
+2	741 m/s	0.6165	motor sports	Moreno Valley, Los Angeles	-0.1025	baseball, golf	0.6652	459	San Francisco, Bakersfield	0.8707
+4	85 m/s	1.2904	running	Sacramento	0.5893	basketball	0.5906	632	Long Beach, Oakland	0.5825
+0	1124 m/s	0.0237	golf	San Jose, Santa Ana	0.4906	badminton	1.0078	162	San Diego	0.429
+3	1167 m/s	0.2921	football	San Bernardino, Stockton, Fremont, Fresno, Chula Vista, San Francisco, Bakersfield	-0.085	track & field	1.1446	4	irvine, riverside, los angeles, modesto	0.9335
+3	811 m/s	0.1894	football	Fresno, Fremont, Stockton, San Bernardino, Bakersfield	0.0483	football, soccer	0.8977	257	Riverside, Los Angeles	1.424
+2	1221 m/s	1.2961	volleyball	OAKLAND	0.5889	running	0.9539	-231	riverside, los angeles, irvine, stockton, modesto	1.0097
+1	1140 m/s	0.4852	boxing	Long Beach, San Diego	1.3364	volleyball, football	1.1641	1607	San Bernardino	0.4181
+3	796 m/s	0.2295	soccer	Chula Vista, San Bernardino, San Francisco	0.5985	tennis	0.5198	434	Los Angeles, Modesto	0.7566
+0	1023 m/s	0.4514	tennis	Riverside, San Jose	0.7876	Badminton	0.898	-218	Bakersfield, Fremont, San Francisco	-0.1642
+1	800 m/s	1.2555	boxing	Modesto, San Diego	1.3267	soccer	1.0829	1038	Moreno Valley	1.09
+4	-88 m/s	0.0177	volleyball	Sacramento	0.3016	boxing, basketball, ice hockey	0.3753	818	Long Beach, Oakland, San Jose	1.3035
+1	873 m/s	0.6624	golf	Long Beach, Modesto	0.9646	football, volleyball	1.1052	1328	Moreno Valley	1.2199
+3	1175 m/s	0.2691	football	Sacramento	0.1033	tennis	1.1864	240	Riverside, Irvine	0.6176
+1	923 m/s	0.4303	boxing	Modesto, San Diego	0.7992	soccer, football	1.2215	397	Moreno Valley	0.9299
+3	1167 m/s	0.1421	badminton	Los Angeles, Anaheim	0.2111	track & field	1.2978	198	Stockton, Modesto, Los Angeles, Riverside, Irvine	1.2722
+2	804 m/s	NULL	track & field	Los Angeles, Oakland	-0.2495	golf	1.0674	498	Santa Clarita	1.1645
+1	714 m/s	0.2379	boxing	Long Beach, Modesto	0.7914	soccer	0.7518	948	Moreno Valley	0.8244
+4	426 m/s	0.6832	running	Sacramento	0.5909	ice hockey, boxing	0.614	1218	San Jose, Anaheim, Oakland	0.871
+3	899 m/s	-0.0894	BADMINTON	bakersfield	0.5085	track & field	1.1847	799	Irvine, Santa Ana, Stockton, Los Angeles, Riverside	0.9624
+2	928 m/s	0.1378	volleyball	Anaheim	-0.0396	running, baseball	1.1148	742	Sacramento	0.3282
+3	1390 m/s	0.1994	badminton	Fremont, Bakersfield	0.2755	tennis	1.038	166	Riverside	0.9783
+0	1101 m/s	0.1688	baseball	Irvine	0.5854	badminton	0.0162	-53	Sacramento	0.8934
+0	858 m/s	-0.2696	basketball	Irvine	0.0829	badminton	0.539	-223	San Diego	0.6415
+2	998 m/s	1.3313	volleyball	Anaheim, Oakland, Moreno Valley	0.2846	Badminton	0.3905	596	Fresno, Chula Vista, Santa Clarita, Bakersfield, San Francisco	1.036
+4	841 m/s	0.093	soccer	Sacramento	0.7593	boxing, motor sports, ice hockey	0.6843	751	Anaheim, Long Beach, Oakland	0.9869
+2	775 m/s	0.278	track & field	Oakland	0.3653	tennis	1.1272	371	Fresno, Fremont, Chula Vista, Santa Clarita	0.8552
+3	863 m/s	0.295	track & field	San Francisco, Santa Clarita, Fremont, Fresno, Chula Vista, San Bernardino	0.3988	track & field	0.6742	405	Riverside, Los Angeles, Modesto	1.3247
+2	1058 m/s	0.7397	track & field	Anaheim, Los Angeles, Oakland	0.2631	running, baseball	0.6687	786	Chula Vista, Fresno, Fremont	1.0793
+2	1184 m/s	0.6307	volleyball	Anaheim, Oakland, Los Angeles	0.1938	golf	None	251	Fresno	0.7557
+0	778 m/s	-0.1402	basketball	Santa Ana, Irvine	0.3027	badminton	0.6352	-209	Sacramento	0.1075
+4	307 m/s	1.0515	running	Sacramento	0.8166	ice hockey, boxing, motor sports	0.3874	937	Anaheim, Long Beach, San Jose	0.926
+0	1060 m/s	0.8089	basketball	Santa Ana, Irvine	0.5104	badminton	0.6413	226	Sacramento	-0.4471
+1	712 m/s	-0.1239	golf	Long Beach	0.889	volleyball	0.8623	488	Oakland, Long Beach	0.6866
+2	1540 m/s	-0.5374	track & field	Los Angeles, Anaheim	0.3727	running	0.5656	468	Santa Clarita	0.3459
+0	1254 m/s	1.4706	ICE HOCKEY		-0.1671	badminton	0.3802	217	San Diego	-0.2627
+1	1343 m/s	0.1988	tennis	Long Beach	0.8647	volleyball, football	1.7565	665	Moreno Valley	0.681
+0	982 m/s	0.3284	basketball	Santa Ana, Riverside, San Jose	0.9528	badminton	1.0189	92	Santa Clarita	0.5655
+1	540 m/s	0.4377	boxing	Chula Vista	0.9576	football	1.2004	538	San Bernardino	0.7657
+0	771 m/s	0.214	ice hockey	SANTA ANA, RIVERSIDE, IRVINE	0.3554	badminton	0.6702	148	Sacramento	0.1419
+1	940 m/s	-0.2237	boxing	Long Beach, San Diego	0.7685	football, soccer	1.057	1049	San Bernardino	1.1935
+0	931 m/s	-0.1375	ice hockey	San Jose	0.5431	badminton	0.932	231	Anaheim	0.5356
+0	797 m/s	0.6713	ice hockey	San Jose, Santa Ana, Riverside	0.2375	badminton	0.6224	-320	San Diego	0.1365
+1	707 m/s	1.2853	boxing	Modesto	0.4748	volleyball	1.3107	430	San Bernardino	1.048
+4	240 m/s	0.9004	volleyball	Sacramento	0.9966	basketball, ice hockey	-0.3823	810	Oakland, Anaheim, San Jose	0.8967
+4	-26 m/s	0.1869	soccer	Santa Ana, Irvine, Riverside	0.7644	basketball	-0.2961	610	Long Beach	0.4987
+2	911 m/s	0.6688	volleyball	aNAHEIM	0.135	baseball	1.4886	119	San Bernardino	1.0837
+0	1154 m/s	0.3312	ice hockey	Riverside	0.4976	badminton	1.362	-166	Irvine, Modesto, Los Angeles, Santa Ana	0.7895
+2	1371 m/s	0.4929	track & field	San Diego, Long Beach	0.1747	golf	1.0531	1108	Chula Vista, San Francisco, Fremont, Santa Clarita, Fresno	0.9155
+3	1178 m/s	-0.0661	baseball	Fresno, Stockton, Bakersfield, San Francisco, Chula Vista, Fremont, San Bernardino	1.1414	tennis	0.6612	578	Modesto, Riverside, Los Angeles, Irvine, Stockton	1.183
+3	1059 m/s	0.2991	baseball	stockton, santa clarita	0.7643	track & field	0.901	-68	Modesto, Riverside	1.2543
+1	612 m/s	0.4029	golf	Modesto, Long Beach	1.0649	football	0.8809	526	San Bernardino	0.9737
+2	1208 m/s	0.3185	volleyball	Moreno Valley	0.1695	baseball	0.5672	614	Fremont, Santa Clarita, Chula Vista, Fresno, San Francisco	0.3857
+3	735 m/s	0.447	BASEBALL	Stockton	0.3721	track & field	0.5139	-232	Stockton, Irvine, Los Angeles, Modesto	0.8011
+0	1401 m/s	0.5037	tennis	Irvine, San Jose, Santa Ana	0.6742	None	0.2802	-324	San Diego	0.3562
+1	1119 m/s	0.2107	golf	San Jose, Irvine, Santa Ana	0.9995	volleyball	0.6016	1141	San Jose, Anaheim, Long Beach	0.7294
+2	1336 m/s	0.6155	golf	Moreno Valley, Oakland	0.1898	baseball	1.3711	402	San Francisco, Fremont, Bakersfield	0.6425
+4	768 m/s	0.7102	running	Sacramento	0.5614	motor sports, boxing, basketball	0.3802	459	Moreno Valley	0.7397
+4	436 m/s	-0.0243	running	Sacramento	0.5388	boxing, motor sports	-0.2701	365	Anaheim	0.8898
+2	544 m/s	0.0428	volleyball	Los Angeles, Anaheim	0.6078	track & field	0.7845	493	Fresno, Fremont, Bakersfield	1.1296
+2	868 m/s	N/A	track & field	Anaheim, Los Angeles	0.0792	golf, baseball	1.2923	976	Fremont, San Francisco	0.6878
+3	1301 m/s	0.6503	motor sports	Sacramento	0.9201	tennis	0.6979	752	Riverside, Los Angeles	0.575
+2	1336 m/s	0.8863	track & field	Anaheim, Los Angeles	-0.0527	baseball, running	0.9309	442	NULL	1.5399
+1	791 m/s	0.1995	boxing	Santa Ana, Irvine, San Jose	0.883	soccer, football	1.5222	655	San Bernardino	1.2628
+1	780 m/s	0.9578	boxing	Modesto	0.5357	soccer	1.0185	606	Moreno Valley	0.8187
+1	573 m/s	0.2706	golf	San Diego	1.4075	football, volleyball	0.9426	327	San Bernardino	1.1981
+4	1066 m/s	None	soccer	NULL	0.6745	basketball, ice hockey	0.6849	437	Oakland, Anaheim	1.3699
+4	-202 m/s	0.8632	running	Sacramento	0.6292	boxing, ice hockey, basketball	0.0898	847	Oakland, Long Beach, Anaheim	0.5632
+3	1146 m/s	-0.0033	volleyball	Santa Clarita, San Bernardino	0.2623	track & field	0.9502	701	Riverside, Modesto, Irvine, Santa Ana, Los Angeles	0.7269
+3	1273 m/s	-0.0155	baseball	san francisco, stockton, fremont, fresno, bakersfield	-0.1988	track & field	0.8016	-60	Riverside	0.4508
+0	1083 m/s	0.1221	ice hockey	San Jose, Santa Ana	1.1091	badminton	0.8984	188	Sacramento	0.2396
+4	640 m/s	0.6461	badminton	Sacramento	0.3648	boxing	-0.1005	400	Long Beach	0.2545
+3	523 m/s	0.446	running	San Francisco, Santa Clarita, Fremont, Stockton	0.3015	track & field	0.8075	546	Los Angeles, Santa Ana, Riverside, Stockton, Modesto	0.5401
+3	663 m/s	0.3238	baseball	Fremont, Stockton, Chula Vista, San Francisco, Santa Clarita, San Bernardino, Bakersfield	0.3603	tennis	1.3476	261	Stockton, Modesto, Riverside, Santa Ana, Irvine	1.0055
+1	704 m/s	0.8122	boxing	Modesto, Long Beach	0.5325	volleyball	0.8703	1146	Moreno Valley	1.0268
+1	1506 m/s	0.0997	boxing	San Diego, Modesto	0.9863	volleyball	1.2146	1029	MORENO VALLEY	0.5094
+3	236 m/s	0.1481	baseball	San Francisco, Fresno, Chula Vista	0.9617	track & field	0.8815	403	Santa Ana, Los Angeles, Irvine	1.3989
+1	1105 m/s	0.3694	golf	San Diego	1.0759	soccer, football	0.9035	1660	Moreno Valley	1.0171
+0	1148 m/s	-0.2198	basketball	Riverside, Santa Ana, San Jose	0.7881	badminton	0.4861	-593	San Diego	0.3344
+1	815 m/s	0.6636	golf	Modesto, San Diego	0.9602	soccer, volleyball	1.1664	616	Moreno Valley	1.5925
+3	978 m/s	-0.41	badminton	Bakersfield, San Francisco, San Bernardino, Chula Vista, Fremont, Fresno	0.3638	tennis	1.0258	-2	Los Angeles, Modesto	0.8614
+2	597 m/s	0.6775	motor sports	Los Angeles, Moreno Valley, Anaheim	0.3771	baseball	1.1285	452	Chula Vista, Fremont	1.0117
+4	643 m/s	0.5075	soccer	Sacramento	0.8837	basketball, boxing	-0.2001	60	San Jose, Anaheim	0.9031
+1	666 m/s	1.026	boxing	Long Beach	0.9211	golf, running	0.8539	853	San Bernardino	0.6965
+1	1099 m/s	1.1865	golf	Long Beach, Modesto	1.0576	volleyball	1.3769	701		0.7457
+4	375 m/s	0.1846	soccer	sACRAMENTO	1.1565	basketball	-0.0502	929	Oakland, Anaheim, San Jose	0.9327
+3	1059 m/s	0.8768	football	Stockton, Fresno	0.4357	track & field	0.5659	885	Riverside, Los Angeles, Irvine, Modesto, Santa Ana	1.0061
+1	1235 m/s	0.259	golf	Sacramento	0.7133	volleyball, soccer	1.2865	890	Moreno Valley	1.1757
+2	969 m/s	0.1622	track & field	Oakland, Anaheim, Moreno Valley	0.341	golf, baseball	0.8637	730	Chula Vista	1.7277
+2	1231 m/s	-0.0919	track & field	Oakland, Los Angeles, Anaheim	0.3375	golf	0.4997	N/A	Fremont	0.6494
+1	737 m/s	0.0249	boxing	Sacramento	0.7201	volleyball, football	0.8973	776	San Bernardino	1.6405
+3	823 m/s	0.112	baseball	Stockton, San Francisco, Chula Vista, Fresno, Santa Clarita	0.3819	tennis	0.3757	64	Riverside, Santa Ana	1.2413
+3	1465 m/s	0.2774	soccer	Chula Vista, Bakersfield, Fresno, San Bernardino, Fremont	0.4275	track & field	1.1855	-65	Irvine, Modesto	0.6147
+0	998 m/s	0.5342	basketball	Oakland	0.9118	badminton	0.8338	142	Bakersfield, Fremont, Fresno, Santa Clarita	0.1638
+2	854 m/s	0.7774	volleyball	Anaheim, Oakland, Moreno Valley	0.4651	track & field	1.2121	707	Chula Vista, Santa Clarita, San Francisco, Fresno, Bakersfield	0.8436
+1	1372 m/s	0.208	boxing	Modesto, San Diego	0.8563	football, volleyball	0.8852	1025	Moreno Valley	0.4608
+2	1032 m/s	0.1129	running	Irvine	0.1307	baseball, running	0.4706	719	Bakersfield, Fresno, San Francisco	1.0199
+0	1087 m/s	0.785	tennis	Riverside, Santa Ana	0.1669	badminton	0.835	-262	Sacramento	0.5699
+4	358 m/s	0.4878	running	Sacramento	0.5245	ice hockey, motor sports, basketball	0.1094	1171	Long Beach, Anaheim	0.8769
+1	802 m/s	1.0133	boxing	Modesto	0.8071	football, soccer	0.8411	997	Moreno Valley	1.0002
+1	1160 m/s	0.2067	boxing	San Diego	0.9194	football, soccer	0.7851	673	San Bernardino	0.6821
+0	806 m/s	0.6273	ice hockey	Irvine, Santa Ana, Riverside	0.6365	badminton	0.8127	398	Sacramento	0.5254
+2	2010 m/s	0.3565	track & field	Los Angeles	0.2631	golf, baseball	1.154	795	Chula Vista, Fresno, Santa Clarita, Fremont	1.2255
+0	683 m/s	0.7422	basketball	Irvine	0.9889	badminton	0.7897	31	Sacramento	0.6527
+2	809 m/s	0.305	track & field	Anaheim, Los Angeles	-0.4275	running, baseball	1.1265	748	Chula Vista, Santa Clarita	0.5503
+2	766 m/s	0.1294	track & field	Oakland	0.1989	baseball, golf	0.8504	554	Fresno	0.8704
+2	1212 m/s	-0.0211	track & field	Oakland, Anaheim	0.5402	golf, baseball	0.5029	700	Fresno, Fremont, Bakersfield, Santa Clarita	1.0062
+0	574 m/s	0.4617	ice hockey	San Jose	0.8358	badminton	0.7316	831	Sacramento	0.0857
+4	348 m/s	0.5945	running	sacramento	0.7006	boxing, ice hockey, basketball	0.3166	504	Sacramento	0.9681
+1	857 m/s	0.3224	golf	Long Beach, Modesto	0.9822	football	1.3166	340	San Bernardino	0.7565
+1	562 m/s	0.7306	boxing	Modesto, Long Beach	0.5102	soccer, volleyball	0.8011	1070	San Bernardino	0.9621
+2	727 m/s	0.6134	track & field	Los Angeles, Oakland	0.3197	baseball	1.1826	1014	Chula Vista	0.7373
+2	1299 m/s	0.2048	track & field	Moreno Valley, Los Angeles	-0.1538	running	0.5417	690	n/a	0.6061
+0	981 m/s	0.0184	ice hockey	Riverside, San Jose	0.2795	badminton	0.5391	539	Los Angeles	0.3686
+3	1007 m/s	0.1776	badminton	Santa Clarita, Stockton, San Bernardino, Fresno, Chula Vista	0.4315	tennis	0.5282	345	Santa Clarita	1.2067
+0	838 m/s	-0.2782	ice hockey	San Jose, Riverside, Irvine	0.7907	Badminton	0.3843	-323	San Diego	0.3034
+0	611 m/s	-0.0752	track & field	Riverside	0.8775	badminton	-0.0335	-385	Sacramento	0.1204
+3	1232 m/s	0.477	football	Bakersfield, San Bernardino, Stockton	0.583	track & field	1.2624	456	Irvine, Stockton	0.8776
+4	131 m/s	0.5963	running	Sacramento	0.5518	basketball, ice hockey, boxing	0.3161	1041	Oakland	0.434
+0	1190 m/s	0.5773	volleyball	Riverside, Irvine	0.6763	badminton	1.2265	-20	San Diego	0.1966
+3	674 m/s	-0.0862	boxing	Bakersfield, Stockton	0.6571	tennis	0.9989	447	Riverside	0.6487
+4	910 m/s	1.0393	soccer	Sacramento	0.7677	motor sports	0.0649	927	Fresno, San Francisco	1.2262
+2	785 m/s	0.193	track & field	Los Angeles, Oakland, Moreno Valley	0.4938	running	1.1712	1118	Santa Clarita	0.9914
+3	1119 m/s	0.2796	motor sports	Fremont	0.5494	track & field	0.3696	-137	Modesto, Stockton, Los Angeles, Riverside	0.8549
+4	521 m/s	0.7121	soccer	Sacramento	0.6864	boxing	0.4183	600	aNAHEIM	0.8479
+2	880 m/s	0.7262	running	Oakland, Moreno Valley	0.3264	running	1.1325	-237	Santa Clarita, San Francisco, Bakersfield, Fremont	1.1919
+2	892 m/s	-0.1957	motor sports	Anaheim	0.3385	golf	1.0406	594	Santa Clarita, San Francisco, Chula Vista	1.0761
+1	838 m/s	-0.2041	boxing	Modesto	1.2109	soccer, volleyball	1.5217	684	San Bernardino	1.0086
+1	720 m/s	0.5219	boxing	Long Beach, San Diego	0.7414	soccer	0.9152	148	San Bernardino	0.8148
+0	836 m/s	0.3433	BASEBALL	Irvine, Santa Ana, San Jose	0.4026	badminton	0.8061	457	San Diego	-0.0167
+0	1640 m/s	0.6899	ice hockey	sAN dIEGO, mODESTO	0.774	badminton	1.2168	-53	Sacramento	-0.0397
+4	471 m/s	0.6553	motor sports	Sacramento	0.8446	motor sports, boxing	0.6898	1557	San Jose, Long Beach, Oakland	0.6789
+0	1225 m/s	0.3014	tennis	Riverside, Irvine	0.8867	badminton	0.7643	-147	San Diego	0.3658
+3	845 m/s	-0.0921	baseball	Chula Vista, San Francisco, Fremont, Fresno, San Bernardino, Bakersfield, Stockton	0.3144	track & field	0.556	623	Fremont, San Francisco, Fresno, Chula Vista	1.1536
+2	740 m/s	0.1178	ice hockey	Oakland	0.3834	baseball	0.6895	341	Moreno Valley	0.4046
+1	824 m/s	0.333	golf	Long Beach	0.954	soccer	1.1697	1356	San Bernardino	1.3896
+1	658 m/s	0.3755	golf	San Diego, Modesto	0.6168	football	0.6184	126	Moreno Valley	1.1371
+3	949 m/s	-0.4261	baseball	Stockton, Bakersfield, Fresno, Chula Vista, San Bernardino	0.4535	baseball	1.1819	720	Los Angeles, Santa Ana, Modesto, Irvine, Riverside	1.4484
+1	656 m/s	0.0249	track & field	Modesto	0.7842	volleyball	1.0316	-258	San Bernardino	0.74
+3	1269 m/s	0.1116	boxing	Fremont	0.4878	track & field	0.8915	980	Los Angeles, Riverside, Stockton, Modesto, Santa Ana	0.9797
+4	519 m/s	0.0646	running	Sacramento	0.8394	motor sports, boxing, ice hockey	-0.0608	-79	San Jose	0.6966
+4	747 m/s	1.6025	SOCCER	Sacramento	0.6525	boxing	0.0033	466	Anaheim	0.7918
+3	918 m/s	-0.7556	badminton	Fresno	0.4747	track & field	0.816	447	Moreno Valley	0.898
+1	1165 m/s	0.238	golf	San Diego, Modesto	0.8078	volleyball	1.0889	995	San Bernardino	0.7975
+1	894 m/s	0.3479	boxing	Chula Vista, Fremont	0.7776	volleyball, football	1.6347	170	San Bernardino	1.3929
+4	389 m/s	0.63	running	San Jose, Irvine, Santa Ana	1.2678	motor sports, basketball, boxing	0.338	317	Anaheim, Oakland	0.8802
+1	1111 m/s	0.5981	boxing	Long Beach	0.7134	football	0.9247	660	Moreno Valley	0.8463
+2	817 m/s	0.8093	track & field	Los Angeles, Moreno Valley, Anaheim	0.0984	running	0.4974	503	Fremont, Fresno	0.7579
+2	1140 m/s	1.2766	motor sports	Los Angeles, Oakland, Moreno Valley	-0.2463	golf, running	0.8605	713	Santa Clarita, Chula Vista, Fremont, Bakersfield, Fresno	0.9682
+3	1036 m/s	0.2033	badminton	Fremont, Santa Clarita, San Francisco, Fresno, Stockton, San Bernardino	0.1756	tennis	1.1658	60	Stockton	1.389
+0	1338 m/s	0.4951	tennis	Santa Ana, Riverside, Irvine	0.5267	badminton	0.9582	69	Sacramento	1.0557
+2	727 m/s	0.4735	volleyball	Oakland, Moreno Valley	-0.0658	baseball, golf	0.7573	609	San Francisco, Fresno, Bakersfield, Chula Vista	0.7291
+0	1150 m/s	-0.2612	basketball	Santa Ana, Irvine, Riverside	0.2644	badminton	0.8235	-723	San Jose, Long Beach, Anaheim	-0.1991
+2	926 m/s	0.494	volleyball	Los Angeles	0.4315	golf	1.1087	259	San Francisco, Chula Vista, Fremont	0.7137
+2	891 m/s	1.2885	motor sports	Moreno Valley, Los Angeles	0.4994	running, golf	0.2714	976	Fresno, Bakersfield, Santa Clarita	1.3642
+4	644 m/s	0.9897	running	Sacramento	1.2102	boxing	0.4713	1318	Chula Vista, Santa Clarita, Bakersfield, Fresno, Fremont	1.1677
+4	659 m/s	1.0956	running	Sacramento	0.0359	ice hockey	0.7178	1787	San Jose	1.1404
+4	198 m/s	0.3714	running	Sacramento	0.7845	ice hockey, basketball	1.0275	1310	Oakland	1.0619
+0	997 m/s	0.1769	tennis	Irvine, Riverside, Santa Ana	0.7901	badminton	1.0551	359	San Diego	1.0436
+1	591 m/s	0.188	Golf	Modesto	1.1369	volleyball	0.8793	281	San Bernardino	0.891
+2	507 m/s	0.5697	MOTOR SPORTS	Oakland	-0.1312	baseball, running	1.2194	991	San Francisco, Santa Clarita, Chula Vista, Bakersfield, Fresno	1.9544
+3	627 m/s	0.2665	baseball	San Francisco, Fremont, Fresno, Chula Vista, Santa Clarita	0.3278	track & field	1.0706	633	Riverside, Santa Ana, Modesto	1.1599
+3	874 m/s	-0.2762	baseball	Bakersfield, San Bernardino, Fremont, Stockton	0.8269	tennis	0.8871	681	Stockton, Riverside	1.2872
+4	422 m/s	0.7184	running	San Jose, Santa Ana	1.0547	basketball, boxing, motor sports	0.2918	534	Oakland, Long Beach, San Jose	0.3783
+2	1122 m/s	0.8726	track & field	Oakland, Los Angeles, Anaheim	-0.3687	running, golf	1.1242	222	Fremont, San Francisco, Bakersfield, Fresno	0.9843
+1	833 m/s	0.1985	golf	San Diego, Long Beach	1.2892	football	1.0117	508	Anaheim, Oakland, San Jose	0.9786
+2	1023 m/s	0.2377	track & field	Anaheim	0.2329	baseball	0.9016	872	Chula Vista, Fresno, Bakersfield, San Francisco, Santa Clarita	0.2459
+3	830 m/s	-0.3236	football	Fresno	0.5138	track & field	0.5946	503	Los Angeles, Irvine, Santa Ana	0.7147
+4	670 m/s	0.5625	running	Sacramento	0.7907	NULL	0.2525	837	san jose, long beach, oakland	0.7425
+0	901 m/s	0.8732	ice hockey	Riverside, Santa Ana	0.5335	badminton	0.7943	704	San Diego	0.2989
+4	280 m/s	-0.1007	soccer	SACRAMENTO	0.8011	basketball, boxing	0.3659	128	NULL	0.3342
+1	965 m/s	0.6531	boxing	San Diego	0.8478	football	1.0415	172	San Bernardino	0.9388
+1	374 m/s	0.6376	boxing	San Diego, Long Beach	1.0602	volleyball, soccer	0.875	1452	San Bernardino	1.3027
+4	505 m/s	0.4572	football	Sacramento	0.8999	basketball	0.0152	735	San Jose	-0.0415
+2	1063 m/s	-0.0486	golf	Moreno Valley, Los Angeles, Oakland	0.183	golf	0.8608	-132	bAKERSFIELD, fREMONT, sAN fRANCISCO, cHULA vISTA, sANTA cLARITA	0.6548
+4	381 m/s	0.4996	golf	Sacramento	0.2462	boxing, ice hockey	0.243	587	San Jose, Oakland, Anaheim	0.9346
+2	1424 m/s	-0.1218	motor sports	Oakland, Moreno Valley, Los Angeles	0.5678	golf, running	0.8168	813	Santa Clarita, Fresno, San Francisco, Bakersfield, Chula Vista	0.5101
+3	729 m/s	0.2389	football	Fresno	0.6358	tennis	0.9953	-28	SAN DIEGO	1.1414
+4	661 m/s	0.1065	Running	Sacramento	0.6579	boxing	-0.1605	1034	San Jose	0.9178
+4	704 m/s	0.5447	soccer	Sacramento	1.2658	boxing	-0.3417	535	Oakland, Long Beach, Anaheim	0.5156
+1	493 m/s	0.2383	boxing	Long Beach, Modesto	1.2351	volleyball, soccer	1.3692	965	San Bernardino	0.8278
+3	1147 m/s	0.1687	motor sports	Chula Vista, Fremont, San Francisco, Stockton, Santa Clarita, San Bernardino, Fresno	0.5339	track & field	0.7221	252	Riverside, Santa Ana, Modesto, Los Angeles	0.8408
+0	1083 m/s	0.0544	tennis	Santa Ana, Irvine, Riverside	0.707	badminton	0.8267	191	Sacramento	0.0119
+2	854 m/s	-0.0825	track & field	Oakland, Los Angeles	0.0135	tennis	0.8702	1282	Fremont, Chula Vista, San Francisco, Bakersfield	1.3559
+3	1090 m/s	0.087	N/A	Fremont, Fresno, Santa Clarita, Chula Vista, Stockton	1.0273	None	0.6783	-300	Santa Ana	0.7918
+0	705 m/s	0.571	tennis	Santa Ana, Irvine	0.5114	badminton	0.9195	2	San Diego	0.7158
+3	814 m/s	0.2252	football	Chula Vista, Fresno, Stockton, Santa Clarita, Bakersfield	0.7	track & field	0.785	124	Modesto	1.0982
+0	1024 m/s	0.6675	tennis	Irvine	0.5057	badminton	0.6996	635	San Diego	0.4778
+0	670 m/s	-0.251	basketball	Santa Ana, Riverside, Irvine	0.9017	badminton	0.4878	-395	Sacramento	0.3477
+2	755 m/s	-0.0852	volleyball	Moreno Valley, Los Angeles	0.9182	running	0.3815	1095	San Francisco, Bakersfield, Santa Clarita	0.7679
+0	490 m/s	0.1371	ice hockey	Riverside, Santa Ana, San Jose	None	tennis	1.446	553	San Diego	0.1009
+0	669 m/s	0.4663	ice hockey	San Jose, Irvine	0.619	badminton	0.7809	-88	Sacramento	0.2184
+0	1170 m/s	0.2142	tennis	San Jose, Irvine, Santa Ana	0.4996	badminton	0.724	477	Sacramento	0.6255
+2	759 m/s	0.5343	motor sports	Anaheim	0.5474	baseball	0.7568	1106	Bakersfield	1.0286
+2	464 m/s	0.5409	None	Anaheim, Moreno Valley	0.4077	running	0.5109	1106	Bakersfield, Fresno, Santa Clarita	1.6614
+1	1221 m/s	0.2823	golf	Modesto, Long Beach	1.0564	football, soccer	1.3091	671	San Bernardino	0.9376
+1	949 m/s	0.2269	golf	Long Beach, Modesto	1.4564	football	0.9658	985	Moreno Valley	0.8757
+2	1334 m/s	1.215	motor sports	Oakland, Los Angeles	0.1587	running, golf	1.1798	410	San Francisco, Santa Clarita, Fresno	1.2069
+3	1052 m/s	0.4295	baseball	Chula Vista, Santa Clarita, Stockton, San Bernardino, Fresno, San Francisco	0.3708	tennis	1.1101	439	Los Angeles, Irvine, Santa Ana, Riverside, Stockton	1.0605
+3	956 m/s	0.6881	NULL	Fremont, San Bernardino	0.6078	track & field	0.8843	510	San Bernardino	1.3399
+3	1413 m/s	-0.4585	football	San Bernardino, Chula Vista, San Francisco	0.4685	tennis	1.482	-117	Irvine	1.2276
+2	1468 m/s	-0.0535	motor sports	Los Angeles	0.5912	running	1.3511	-14	Chula Vista, Santa Clarita, San Francisco	0.896
+1	462 m/s	0.7371	boxing	Modesto	1.2425	soccer	0.3895	557	Moreno Valley	1.0839
+1	732 m/s	0.6618	golf	San Diego	0.8498	football	1.5101	1466	San Bernardino	0.692
+0	1052 m/s	0.2538	tennis	Santa Ana, Irvine, San Jose	0.7933	badminton	0.9351	-268	Sacramento	0.464
+4	525 m/s	1.0841	soccer	Sacramento	0.1572	basketball, motor sports, boxing	0.5365	346	San Jose, Oakland, Long Beach	1.3476
+3	695 m/s	-0.1107	baseball	Bakersfield	-0.1684	track & field	0.3981	749	Stockton, Modesto, Irvine, Riverside, Los Angeles	0.1662
+4	379 m/s	0.5491	boxing	Sacramento	0.5183	basketball, boxing, motor sports	0.5134	1750	Oakland, Anaheim, San Jose	1.3124
+4	301 m/s	0.3083	running	Sacramento	0.6943	boxing, basketball, motor sports	0.0493	632	Oakland, Long Beach, San Jose	0.6459
+3	919 m/s	-0.6569	badminton	Fresno, Bakersfield, Fremont, Santa Clarita	0.782	tennis	0.9527	477	lOS aNGELES	1.866
+2	1579 m/s	0.026	motor sports	Anaheim, Moreno Valley, Los Angeles	0.5044	running, golf	1.0496	1398	Fresno, San Francisco, Bakersfield, Santa Clarita	0.7766
+1	525 m/s	0.026	golf	Santa Ana, Irvine, Riverside	0.846	football, soccer	0.4346	-7	San Bernardino	0.7808
+3	692 m/s	-0.3714	baseball	Bakersfield, San Francisco, San Bernardino, Stockton	1.096	tennis	1.1741	108	Modesto	0.8821
+0	769 m/s	0.4854	tennis	Riverside, Santa Ana	0.4662	running	1.0356	228	Sacramento	0.614
+2	967 m/s	0.0669	basketball	Moreno Valley, Los Angeles	0.1539	golf	0.8849	399	Chula Vista, Santa Clarita, Fremont, San Francisco, Fresno	0.959
+3	1155 m/s	0.3517	football	San Bernardino, Fremont	0.6458	boxing, motor sports	0.8559	713	Santa Ana, Modesto, Stockton, Irvine, Los Angeles	0.8356
+0	984 m/s	0.642	tennis	Fremont, Bakersfield, Stockton, Santa Clarita	0.4658	badminton	0.5164	-433	San Jose, Anaheim, Long Beach	0.0322
+4	566 m/s	0.4546	running	Sacramento	0.6303	motor sports, ice hockey	0.365	1486	Anaheim, Oakland	0.8643
+3	780 m/s	-0.4105	badminton	San Bernardino, Fremont, Bakersfield, Fresno, Santa Clarita, San Francisco, Stockton	0.5819	tennis	1.1924	501	San Bernardino	0.9653
+2	810 m/s	-0.0796	volleyball	Moreno Valley	0.1911	golf, baseball	1.3376	351	Chula Vista, Santa Clarita, Fresno, Bakersfield, Fremont	NULL
+1	483 m/s	-0.1136	boxing	San Diego	0.5408	soccer	0.7746	865	Moreno Valley	0.7582
+4	541 m/s	0.861	running	Sacramento	1.1492	motor sports	0.4771	1218	San Jose, Oakland	0.9391
+3	1344 m/s	0.1635	volleyball	Fremont, Stockton, San Bernardino, Chula Vista, Bakersfield	0.2445	TRACK & FIELD	0.8689	112	Riverside, Irvine, Santa Ana	1.5258
+3	704 m/s	0.8433	boxing	Santa Clarita, Stockton	-0.0709	tennis	0.6743	802	Stockton, Los Angeles, Riverside	0.753
+3	1409 m/s	0.0853	golf	Fremont, Fresno	0.1807	track & field	1.0289	-375	Los Angeles, Modesto, Stockton, Santa Ana	0.7227
+4	584 m/s	0.4927	RUNNING		0.9921	boxing, motor sports	0.6644	643	Oakland, Anaheim	1.444
+1	1028 m/s	0.6666	golf	Modesto, Long Beach	0.5991	soccer	0.4973	507	Moreno Valley	1.1252
+4	8 m/s	1.1519	SOCCER	Sacramento	0.5805	ice hockey	0.3051	1003	Long Beach, Anaheim, San Jose	1.1396
+2	750 m/s	0.0902	track & field	San Diego, Long Beach	-0.1681	baseball	0.4691	73	Chula Vista, Bakersfield, Santa Clarita, Fremont, San Francisco	1.2059
+1	758 m/s	0.3746	golf	Modesto, San Diego	0.66	soccer	0.9473	592	San Bernardino	N/A
+3	849 m/s	0.4294	football	Stockton, San Bernardino, Chula Vista	0.3136	TENNIS	0.6162	18	Los Angeles, Riverside, Santa Ana, Stockton	1.4151
+0	404 m/s	0.0215	ice hockey	stockton, san bernardino, fresno	0.603	badminton	0.3698	-451	SAN DIEGO	0.5661
+1	1020 m/s	0.661	NULL	San Diego, Long Beach	1.2143	football, volleyball	0.6388	308	San Bernardino	1.0736
+2	1526 m/s	0.1756	track & field	Anaheim, Oakland, Moreno Valley	0.3704	baseball, golf	1.1494	301	Fremont, Chula Vista, Fresno, San Francisco, Bakersfield	1.0323
+0	1413 m/s	n/a	ice hockey	San Jose	0.7736	badminton	1.2394	-256	Sacramento	1.0255
+0	868 m/s	0.98	basketball	Riverside, Santa Ana	0.7485	badminton	0.6485	678	Sacramento	1.1857
+1	755 m/s	0.1325	soccer	San Diego	1.023	volleyball	1.5026	636	Moreno Valley	1.0153
+3	1032 m/s	0.015	baseball	Santa Clarita, Fresno, San Francisco, Chula Vista	0.4966	track & field	0.7776	769	San Bernardino	0.9913
+2	651 m/s	0.2151	motor sports	Anaheim	0.7251	baseball	0.5487	672	Fremont, San Francisco, Santa Clarita, Chula Vista	1.6412
+0	707 m/s	0.8928	tennis	Riverside	0.6866	badminton	1.2554	172	Sacramento	0.2631
+0	1270 m/s	0.657	basketball	San Jose, Riverside	0.1704	badminton	-0.012	226	San Diego	0.6273
+0	888 m/s	0.8582	basketball	Irvine, Riverside	0.6716	football	0.6595	95	San Diego	0.3535
+1	466 m/s	0.7128	golf	San Diego, Modesto	0.4146	soccer	0.4717	776	Anaheim, San Jose	1.3495
+3	684 m/s	0.2793	badminton	Santa Clarita, San Francisco, Chula Vista, San Bernardino, Stockton, Bakersfield, Fremont	-0.0824	track & field	0.7314		Los Angeles	0.5759
+4	704 m/s	0.5304	soccer	Sacramento	0.8113	baseball	0.5909	-181	Long Beach	0.9271
+0	316 m/s	0.8912	ice hockey	Santa Ana, Irvine, Riverside	0.8211	badminton	0.9444	-384	San Diego	-0.1567
+3	577 m/s	1.0176	badminton	Fresno, San Francisco, Santa Clarita, Fremont, Chula Vista	1.1084	track & field	1.0849	806	Los Angeles, Santa Ana, Modesto, Riverside	1.1116
+1	480 m/s	0.8469	boxing	Irvine	0.9081	football, volleyball	1.4536	834	San Bernardino	0.4617
+0	1355 m/s	0.7657	basketball	Santa Ana, San Jose	0.4141	badminton	0.5195	-65	Anaheim	0.379
+3	893 m/s	0.4489	baseball	Bakersfield, San Bernardino, San Francisco, Santa Clarita, Chula Vista, Fresno	1.2721	tennis	1.1727	3	Los Angeles	0.8336
+0	479 m/s	0.0903	tennis	Irvine, Santa Ana	1.1554	badminton	0.5721	353	San Diego	0.1597
+4	348 m/s	0.8274	running	Sacramento	0.7373	boxing, motor sports	0.4174	928	Oakland	1.5019
+0	1086 m/s	-0.1544	ice hockey	Irvine, San Jose	1.2316	badminton	1.1124	273	Sacramento	0.0753
+4	406 m/s	0.6083	soccer	Sacramento	0.288	basketball	0.225	723	Oakland, San Jose, Anaheim	1.05
+4	63 m/s	0.8072	volleyball	Sacramento	0.9762	basketball, ice hockey, motor sports	0.6482	1014	Anaheim, Long Beach, Oakland	0.9312
+2	848 m/s	0.334	volleyball	Moreno Valley, Anaheim	-0.1531	baseball	0.843	1089	Santa Clarita, Fresno, Bakersfield, Chula Vista, San Francisco	1.1167
+4	502 m/s	0.3276	soccer	Sacramento	0.762	motor sports, basketball, ice hockey	0.2909	91	Anaheim	0.9861
+3	1232 m/s	0.1583	BASEBALL	San Francisco, Fremont, San Bernardino, Chula Vista, Fresno, Santa Clarita, Stockton	0.5185	tennis	0.6753	8	Los Angeles, Irvine, Stockton, Modesto, Santa Ana	0.8289
+4	603 m/s	0.4152	soccer		1.0464	basketball, motor sports	1.1839	483	Oakland	1.0447
+2	1268 m/s	-0.038	track & field	Moreno Valley, Anaheim, Oakland	0.1452	baseball	0.7858	457	Santa Clarita, Fremont, San Francisco, Fresno	1.0649
+4	-49 m/s	0.1621	soccer	None	1.0587	motor sports	0.5688	938	Santa Clarita, Fresno	0.6658
+3	1067 m/s	0.7094	baseball	Fremont, Fresno, Bakersfield, Santa Clarita, San Bernardino, San Francisco, Chula Vista	0.6364	tennis	0.4305	79	San Diego	0.5029
+1	989 m/s	0.0577	golf	San Diego	0.8922	track & field	0.8619	649	Oakland, Anaheim, Long Beach	0.715
+0	534 m/s	0.2027	ice hockey	Santa Ana	0.8022	badminton	0.9418	-138	Moreno Valley	
+1	627 m/s	0.7656	golf	Long Beach, Modesto	0.58	volleyball	1.2038	499	Sacramento	0.6027
+2	772 m/s	0.5854	motor sports	Oakland, Los Angeles	0.1711	baseball	0.805	769	San Francisco, Fresno	0.8434
+1	1084 m/s	0.1209	golf	Long Beach, San Diego	0.6563	soccer, football	0.8793	86	san bernardino	0.7505
+4	448 m/s	0.3975	soccer	Sacramento	-0.1699	boxing, basketball, ice hockey	-0.0825	1302	Oakland, Long Beach, San Jose	1.0038
+2	918 m/s	0.4708	running	Modesto	0.377	baseball, golf	0.8267	132	Bakersfield, San Francisco	0.7148
+4	401 m/s	0.8263	running	Sacramento	1.0865	ice hockey, motor sports	-0.0255	854	San Jose, Oakland	0.5958
+4	955 m/s	0.494	badminton	Sacramento	0.8798	boxing	-0.0391	514	San Jose	1.0441
+0	1505 m/s	0.3657	tennis	San Jose, Santa Ana, Riverside	0.7135	badminton	0.1372	104	Sacramento	0.3474
+4	482 m/s	0.4654	soccer	Sacramento	0.6701	basketball	0.5632	565	Oakland, Long Beach	0.894
+3	1009 m/s	0.6076	badminton	San Bernardino, San Francisco, Santa Clarita	-0.3326	tennis	0.8938	262	Stockton, Riverside, Irvine, Los Angeles	0.7558
+4	611 m/s	0.4922	running	Sacramento	0.3222	basketball, motor sports	-0.0916	715	Oakland	1.2457
+1	1005 m/s	0.8918	boxing	mODESTO	n/a	baseball	0.686	1119	N/A	0.7925
+1	928 m/s	0.7327	boxing	San Diego	1.1265	track & field	0.794	258	Moreno Valley	0.769
+3	1648 m/s	0.0629	football	Stockton, Chula Vista	0.2518	track & field	1.2675	784	Los Angeles, Riverside, Stockton, Modesto	1.067
+4	344 m/s	0.6207	basketball	Sacramento	0.8146	ice hockey	-0.3758	648	Anaheim	0.9496
+1	604 m/s	-0.2982	badminton	Modesto, Long Beach	1.1565	running	0.8672	1065	San Diego	1.415
+4	373 m/s	0.1682	running	Sacramento	0.5191	motor sports, ice hockey, basketball	0.8576	160	San Jose	1.1285
+3	1102 m/s	0.4642	baseball	San Francisco, Fremont, Fresno, Santa Clarita, Bakersfield	1.1043	track & field	1.015	-483	Modesto, Irvine, Riverside, Santa Ana	0.8728
+3	534 m/s	0.1922	baseball	Sacramento	0.3253	tennis	0.5968	564	Stockton, Riverside, Santa Ana, Irvine	1.03
+2	1272 m/s	0.189	motor sports	Los Angeles	0.3285	baseball, running	0.7413	166	Long Beach, Oakland	0.5585
+0	1256 m/s	0.878	basketball	San Jose, Santa Ana, Riverside	0.9872	badminton	0.6707	68	San Diego	0.3357
+2	1316 m/s	0.5655	Volleyball	Los Angeles, Oakland	0.0744	golf	0.909	553	San Jose	0.9251
+2	731 m/s	0.1965	volleyball	Moreno Valley	0.0849	boxing, ice hockey, basketball	0.6856	356	bAKERSFIELD, sAN fRANCISCO, sANTA cLARITA, fREMONT	0.5167
+2	1013 m/s	0.376	boxing	Anaheim, Oakland, Los Angeles	0.7943	baseball, running	0.5548	1335	Fresno, San Francisco, Bakersfield	0.6553
+4	544 m/s	0.7805	running	Sacramento	0.5743	motor sports	0.6194	n/a	San Jose, Oakland, Anaheim	0.6894
+1	1015 m/s	1.02	golf	San Diego, Long Beach	1.1234	football, volleyball	0.801	1735	San Bernardino	0.7382
+0	1037 m/s	0.2594	basketball	Santa Ana, Riverside	0.892	badminton	0.3371	307	San Diego	-0.0784
+4	661 m/s	0.7887	running	Sacramento	0.7112	n/a	-0.0308	130	Oakland, San Jose, Long Beach	0.6741
+2	1114 m/s	0.3855	BASKETBALL	?	0.0368	golf	1.2215	911	Santa Clarita, Fremont	1.1662
+4	226 m/s	0.5369	?	SACRAMENTO	1.1054	motor sports, ice hockey, boxing	0.4184	1440	San Jose	1.079
+3	307 m/s	0.1884	Baseball	San Bernardino, Chula Vista, Santa Clarita, Fremont, Bakersfield, Stockton	0.7729	track & field	1.4166	-163	Riverside, Stockton, Irvine, Santa Ana, Los Angeles	1.2065
+0	778 m/s	0.5801	tennis	San Jose, Santa Ana	0.6199	badminton	None	-102	San Diego	-0.034
+3	1337 m/s	0.6407	football	Chula Vista, San Bernardino, Fresno, San Francisco, Santa Clarita, Bakersfield, Fremont	0.3419	track & field	1.0782	474	Anaheim, San Jose	0.2806
+2	1414 m/s	0.5229	motor sports	Los Angeles, Moreno Valley, Oakland	0.1613	baseball, golf	0.3407	944	bakersfield, fresno, santa clarita	1.1906
+1	1047 m/s	0.6532	boxing	San Diego	0.8833	football	1.108	?	Moreno Valley	0.5413
+3	1604 m/s	0.7561	football	Stockton	0.5329	track & field	0.9895	110	Irvine, Riverside	0.2744
+0	915 m/s	-0.3963	basketball	Riverside, Santa Ana	0.203	badminton	1.1855	-388	Sacramento	0.2756
+3	510 m/s	0.235	baseball	Sacramento	0.4274	track & field	0.777	897	Los Angeles	0.6048
+3	1169 m/s	0.037	badminton	San Francisco	0.9403	track & field	0.9452	312	Riverside	1.3689
+2	1059 m/s	0.2195	motor sports	Los Angeles, Oakland, Anaheim	0.3696	golf	0.9817	1080	Santa Clarita	1.1697
+1	236 m/s	0.4867	golf	San Diego	0.9889	NULL	0.9585	809	Moreno Valley	1.0956
+4	384 m/s	0.401	soccer	Sacramento	0.669	golf, baseball	0.0174	404	San Jose, Oakland	NULL
+4	220 m/s	0.6378	running	San Diego, Long Beach	0.7306	badminton	0.31	1409	San Jose, Anaheim	0.3605
+4	312 m/s	0.3569	running	Sacramento	0.8	basketball, boxing, ice hockey	0.322	1400	Santa Clarita, Chula Vista, Fremont	0.7457
+2	929 m/s	0.6273	motor sports	Anaheim	0.1234	golf	0.9207	1174	San Diego	0.9699
+0	1155 m/s	0.2001	ice hockey	Santa Ana, San Jose, Riverside	0.3416	badminton	0.9112	753	sacramento	0.7575
+2	1197 m/s	0.2482	volleyball	Anaheim	0.2281	running	0.738	918	Fresno, Santa Clarita, Bakersfield	1.3449
+0	1219 m/s	0.637	ice hockey	Irvine, Santa Ana	0.5248	badminton	0.7063	-45	Sacramento	0.7299
+1	925 m/s	0.2499	boxing	Modesto	0.7246	volleyball, football	0.8587	1071	Moreno Valley	0.9796
+1	751 m/s	0.4394	boxing	San Diego	0.746	football	1.209	408	San Bernardino	0.7743
+1	618 m/s	0.5542	golf	Modesto	0.5666	football, volleyball	1.1187	831	Sacramento	0.8375
+3	935 m/s	0.964	motor sports	Fresno, Fremont, San Francisco, San Bernardino, Bakersfield	0.503	Tennis	1.2612	-280	Santa Ana, Los Angeles, Irvine, Modesto	1.1248
+1	824 m/s	0.6562	golf	Modesto	0.8833	football	1.0021	1297	Moreno Valley	1.2932
+3	1029 m/s	0.3328	badminton	Stockton, Fresno, Bakersfield	0.5739	tennis	0.5233	510	San Diego	0.7147
+1	777 m/s	0.1622	baseball	sAN dIEGO	0.8324	soccer, football	1.3362	2163	Moreno Valley	0.4178
+2	1165 m/s	-0.4128	volleyball	Moreno Valley, Los Angeles, Oakland	0.3565	running	0.9535	537	Santa Clarita, Fresno	1.071
+2	926 m/s	0.3705	track & field	Los Angeles, Oakland, Anaheim	-0.2205	ice hockey, motor sports, boxing	1.7251	-288	San Francisco, Bakersfield, Fremont, Santa Clarita	1.062
+4	1099 m/s	0.677	soccer	Sacramento	0.6502	ice hockey	0.5882	1659	Stockton, Los Angeles	0.848
+4	626 m/s	0.9532	running	Sacramento	0.6004	motor sports, basketball	0.3909	753	Anaheim, Long Beach, Oakland	1.2855
+3	1178 m/s	-0.2998	badminton	Santa Clarita, Fresno, Bakersfield, Stockton, San Bernardino, San Francisco	0.8125	tennis	0.4637	280	Irvine, Santa Ana, Riverside, Modesto, Los Angeles	1.0116
+0	790 m/s	0.2642	basketball	Riverside	0.9392	badminton	0.769	-119	San Diego	0.7121
+4	1214 m/s	1.0577	running	Sacramento	0.6588	boxing, basketball	0.4544	414	Oakland, San Jose	0.3052
+0	983 m/s	0.2298	ice hockey	Riverside	0.9728	badminton	0.4604	-46	San Diego	0.5657
+4	1015 m/s	0.6445	soccer	Sacramento	0.1987	boxing	-0.0758	708	SAN JOSE, LONG BEACH, ANAHEIM	0.8243
+2	834 m/s	0.8129	track & field	Los Angeles, Moreno Valley, Anaheim	0.0715	baseball	1.1364	478	Chula Vista, Fremont, Santa Clarita, San Francisco, Bakersfield	1.1126
+2	1267 m/s	0.4837	volleyball	Oakland, Anaheim	0.2788	baseball, running	0.8661	1395	Fremont, Chula Vista, Santa Clarita	0.9397
+2	933 m/s	0.2512	motor sports	Oakland	?	golf	0.5363	668	Los Angeles, Irvine, Riverside, Santa Ana	1.3631
+3	825 m/s	0.6225	baseball	San Bernardino, San Francisco, Fresno, Santa Clarita, Chula Vista	0.7617	track & field	0.8642	-122	Stockton, Los Angeles	1.1858
+2	1042 m/s	0.2194	track & field	Irvine	0.3022	tennis	0.7174	1320	Bakersfield	1.6902
+4	283 m/s	0.3142	SOCCER	Sacramento	0.7982	ice hockey	-0.0233	1139	San Jose, Oakland	0.1742
+1	988 m/s	0.8641	boxing	mODESTO	1.211	volleyball, football	0.8761	922	San Bernardino	1.0343
+0	1106 m/s	0.7147	soccer	San Jose, Irvine	0.5268	volleyball, football	1.1288	-813	San Diego	0.0654
+3	1534 m/s	0.2116	baseball	Bakersfield, Fremont	0.5111	tennis	1.1478	172	Modesto, Santa Ana	0.8651
+0	1245 m/s	0.4746	tennis	Riverside, Irvine, San Jose	0.5421	badminton	0.4481	94	Santa Ana, Modesto, Los Angeles	0.6285
+3	382 m/s	0.8685	baseball	Santa Clarita, Fresno, Chula Vista, Bakersfield, San Francisco, Stockton, Fremont	0.5681	track & field	1.5133	20	San Bernardino	0.8763
+0	1136 m/s	0.3647	basketball	Santa Ana, Irvine	0.4964	badminton	0.6089	-244	San Diego	0.2886
+2	883 m/s	-0.0206	motor sports	Anaheim, Los Angeles	-0.3543	baseball, golf	1.4762	768	San Francisco, Chula Vista	1.1227
+0	965 m/s	0.7642	boxing	Irvine, San Jose	0.7121	badminton	0.6299	-515	Sacramento	0.4694
+0	1190 m/s	-0.0372	golf	Riverside, Santa Ana, San Jose	0.9674	badminton	0.625	-556	San Diego	0.2871
+4	930 m/s	1.3781	running	Chula Vista, Bakersfield, San Bernardino, San Francisco, Santa Clarita	0.9783	basketball, motor sports	-0.3854	539	Anaheim	0.7796
+0	901 m/s	0.034	basketball	Santa Ana, San Jose	0.7206	badminton	0.5992	103	San Diego	0.2599
+4	735 m/s	0.9242	volleyball	Sacramento	1.0309	boxing	0.0705	914	Oakland, San Jose, Long Beach	1.2256
+2	764 m/s	0.7007	track & field	Los Angeles, Anaheim, Oakland	0.2259	golf, baseball	1.1144	515	Fresno, Chula Vista	0.7133
+3	1331 m/s	-0.0185	golf	Santa Clarita, Chula Vista, Fremont, San Bernardino, San Francisco, Fresno	0.3329	track & field	1.1677	-369	Irvine, Santa Ana	0.7462
+2	1085 m/s	0.5671	track & field	Los Angeles	-0.2773	baseball, golf	1.2317	425	Fremont, Fresno, Bakersfield, San Francisco, Santa Clarita	0.9135
+4	982 m/s	0.4513	running	Sacramento	0.8192	motor sports, ice hockey, boxing	0.5243	1217	Sacramento	0.9752
+4	462 m/s	0.8936	soccer	Sacramento	0.9771	boxing, ice hockey	-0.3039	955	Moreno Valley	0.8067
+2	1037 m/s	0.8484	track & field	Moreno Valley, Anaheim	0.5073	running, golf	0.638	700	Chula Vista, Fremont, Bakersfield	1.2726
+1	1091 m/s	0.5552	badminton	Modesto	0.8571	soccer, volleyball	0.9186	1037	San Bernardino	1.221
+0	451 m/s	0.4238	basketball	San Jose	0.3371	badminton	0.732	-660	Sacramento	0.5489
+4	531 m/s	0.9021	running	Santa Ana	0.7573	ice hockey, motor sports	0.235	624	Anaheim	0.6843
+1	303 m/s	0.5869	golf	Modesto, San Diego	0.6853	football, soccer	1.283	1247	Stockton, Modesto, Riverside, Santa Ana	1.8664
+1	995 m/s	0.1636	golf	Long Beach, San Diego	0.8187	soccer, volleyball	0.9946	1741	Moreno Valley	0.4712
+1	603 m/s	0.247	golf	San Diego	0.9694	volleyball	1.1696	1056	San Bernardino	1.2864
+0	1518 m/s	0.1408	basketball	Irvine, Santa Ana	0.4976	tennis	0.7487	-358	San Diego	0.2607
+2	721 m/s	0.5565	volleyball	Oakland, Los Angeles	0.25	running	1.026	422	Fremont, Fresno, San Francisco	0.9756
+0	1094 m/s	0.5083	boxing	San Jose, Riverside	0.6319	badminton	0.379	79	Anaheim, Long Beach, Oakland	0.4015
+1	859 m/s	0.2624	golf	Long Beach, Modesto	0.5412	volleyball, soccer	0.9489	1106	Moreno Valley	NULL
+3	1281 m/s	0.2447	football	Fremont, San Bernardino, Fresno, Bakersfield, Stockton	0.3876	track & field	0.9461	648	Modesto, Irvine, Stockton, Riverside	1.1052
+4	545 m/s	1.3488	soccer	Sacramento	0.5771	ice hockey, motor sports	0.0104	1366	Oakland, San Jose, Anaheim	1.6422
+3	610 m/s	0.1469	badminton	Chula Vista, Santa Clarita	0.78	tennis	1.1167	-26	Los Angeles, Stockton, Riverside, Santa Ana, Irvine	1.0754
+2	1163 m/s	0.0088	volleyball	Anaheim, Oakland, Moreno Valley	0.3519	golf, running	1.0934	235	Santa Clarita	1.3555
+2	1005 m/s	0.7163	boxing	Anaheim, Moreno Valley	-0.103	baseball, running	1.3216	619	cHULA vISTA, fRESNO, bAKERSFIELD, fREMONT	1.0318
+2	1361 m/s	0.5796	track & field	Oakland, Moreno Valley, Los Angeles	0.0232	running, golf	0.6555	303	Chula Vista	1.1228
+2	967 m/s	0.4848	track & field	Anaheim, Moreno Valley	0.1647	soccer, football	1.0336	286	Fresno	1.226
+4	626 m/s	0.777	ice hockey	Moreno Valley, Los Angeles, Oakland	1.0928	boxing, ice hockey	0.1711	222	Anaheim	1.0774
+4	561 m/s	0.4175	ice hockey	Sacramento	1.1532	motor sports	0.3177	948	San Jose	0.9785
+3	934 m/s	0.6406	baseball	Stockton, Fresno, Bakersfield, Santa Clarita, Chula Vista, Fremont, San Bernardino	0.1062	tennis	1.0266	119	Stockton, Riverside	0.9357
+1	1048 m/s	0.9431	golf	Fresno, Santa Clarita, Stockton, Bakersfield, Chula Vista, San Francisco	0.7889	volleyball, soccer	1.4245	573	Stockton, Los Angeles	0.8157
+3	1446 m/s	-0.0019	football	Chula Vista, Fremont, San Bernardino, Stockton, Santa Clarita, Bakersfield, Fresno	0.4115	tennis	1.5252	863	Modesto, Stockton, Los Angeles, Riverside, Irvine	0.9949
+0	1347 m/s	0.1857	track & field	Santa Ana, Irvine, Riverside	0.7615	badminton	1.3497	43	San Diego	0.1615
+4	234 m/s	0.9245	soccer	Sacramento	1.371	basketball, boxing, ice hockey	0.3297	N/A	Long Beach, San Jose	1.1987
+0	969 m/s	0.468	tennis	Santa Ana	0.6076	badminton	0.8116	-301	San Diego	0.8525
+0	1000 m/s	0.2389	baseball	San Jose, Santa Ana	0.3176	badminton	0.8659	-181	San Jose, Oakland	0.2849
+3	769 m/s	N/A	badminton	Fremont	0.2073	tennis	0.9197	-117	San Diego	1.0736
+2	603 m/s	0.3952	volleyball	Oakland	0.2503	running	0.5695	661	Santa Clarita, Fresno, Bakersfield, Chula Vista, San Francisco	1.2097
+3	648 m/s	-0.091	running	Fresno, Santa Clarita, Fremont	0.5578	track & field	0.8102	295	lOS aNGELES	1.0017
+4	-186 m/s	0.6465	running	Sacramento	0.5673	BASKETBALL, MOTOR SPORTS	0.303	1116	Oakland, Long Beach, Anaheim	0.8823
+1	1302 m/s	0.1737	golf	Long Beach, San Diego	0.9281	soccer, volleyball	1.1152	1109	San Bernardino	0.7718
+1	906 m/s	-0.0717	boxing	Modesto, San Diego	0.8383	track & field	0.8122	1641	San Bernardino	0.841
+1	638 m/s	0.3242	golf	Modesto	0.7747	volleyball, soccer	1.1423	703	San Bernardino	0.526
+3	1316 m/s	-0.1575	boxing	Santa Clarita, Chula Vista	0.3261	tennis	0.9761	613	Santa Ana, Stockton	0.7278
+2	592 m/s	-0.0019	football	Oakland	0.7326	running	0.8513	777	Fremont, San Francisco, Chula Vista, Santa Clarita, Fresno	NULL
+4	501 m/s	0.7146	running	sacramento	0.7957	ice hockey	0.0651	148	Anaheim, Long Beach	0.3427
+4	253 m/s	0.8994	running	Sacramento	0.9091	ice hockey, boxing	0.3523	521	lONG bEACH, aNAHEIM, sAN jOSE	0.6667
+3	845 m/s	-0.1364	baseball	Chula Vista, Bakersfield, San Francisco, Fresno, Fremont	0.9545	tennis	1.0252	12	Riverside	1.1561
+1	1580 m/s	0.804	VOLLEYBALL	San Diego, Modesto	0.8964	football	1.3917	2	Irvine, Stockton, Los Angeles, Modesto	0.5977
+0	1158 m/s	0.5479	tennis	Irvine, Riverside, San Jose	0.7628	badminton	0.4204	-14	Sacramento	0.734
+3	1314 m/s	0.4711	baseball	San Francisco, Fremont, Stockton, Fresno, Chula Vista, Bakersfield, Santa Clarita	1.1312	track & field	1.3976	541	Stockton, Riverside, Santa Ana, Los Angeles, Irvine	0.4936
+2	1077 m/s	0.9318	golf	Anaheim, Los Angeles	0.3645	running	1.0616	794	Bakersfield, San Francisco, Fresno	0.9165
+1	1100 m/s	1.004	golf	Modesto, Long Beach	1.1152	volleyball, soccer	1.0216	1078	San Bernardino	1.5794
+3	1228 m/s	0.509	football	Stockton, Fresno, Santa Clarita, San Francisco	0.4679	?	1.2937	842	Irvine, Los Angeles	0.7792
+4	204 m/s	0.5687	soccer	Sacramento	0.6816	boxing, ice hockey, basketball	0.3677	-298	Moreno Valley	0.5903
+4	530 m/s	0.6549	running	Sacramento	0.6076	N/A	0.7743	475	lONG bEACH, aNAHEIM, sAN jOSE	0.8978
+1	1295 m/s	0.1654	badminton	San Diego, Modesto	1.0648	volleyball, football	1.1764	331	Moreno Valley	0.973
+0	1542 m/s	-0.1231	tennis	San Jose	0.7702	badminton	0.8665	167	San Diego	0.6951
+1	449 m/s	0.7218	golf	Long Beach	1.0611	football, volleyball	0.6998	842	Moreno Valley	0.8938
+1	1387 m/s	0.0452	golf	Modesto, San Diego	0.5594	soccer, volleyball	1.1347	1034	San Bernardino	1.2989
+3	591 m/s	0.2638	badminton	Santa Clarita, Stockton, Fremont, Bakersfield	0.5425	track & field	0.2056	1044	Stockton, Santa Ana, Los Angeles, Irvine, Riverside	1.0846
+3	394 m/s	0.2815	badminton	San Francisco, Bakersfield, Chula Vista	0.558	tennis	1.1604	-339	Sacramento	1.0895
+2	1071 m/s	0.9524	motor sports	Moreno Valley, Los Angeles	0.2606	motor sports	1.2534	576	Bakersfield	0.6188
+0	1265 m/s	0.3748	ice hockey	Irvine, Santa Ana, Riverside	0.758	badminton	0.9402	-102	San Diego	0.7663
+1	504 m/s	0.5338	boxing	Fresno, Bakersfield, Stockton, Chula Vista, San Bernardino, Santa Clarita	0.7429	football, soccer	1.2416	-327	Moreno Valley	0.4971
+2	1072 m/s	0.3259	motor sports	Oakland, Anaheim, Los Angeles	0.0538	baseball, running	0.8507	719	Santa Clarita, Fresno	1.0217
+0	979 m/s	0.5636	ice hockey	Santa Ana, San Jose, Irvine	1.1515	badminton	0.7123	164	San Diego	0.3495
+4		0.107	soccer	Sacramento	0.6258	boxing	0.354	1077	Long Beach, Oakland	0.9245
+2	1219 m/s	-0.1577	boxing	Los Angeles, Moreno Valley, Oakland	-0.1945	running, golf	1.0673	550	Bakersfield, Chula Vista	1.0133
+0	505 m/s	0.3593	tennis	San Jose, Riverside	0.9077	badminton	0.6016	-342	San Diego	0.3261
+4	-204 m/s	1.0791	soccer	Sacramento	0.7642	boxing, basketball	0.8223	941	San Jose, Oakland, Anaheim	0.904
+4	-67 m/s	0.3332	soccer	Sacramento	0.8977	boxing, ice hockey, motor sports	0.061	1512	Oakland, San Jose, Anaheim	0.7581
+4	512 m/s	0.646	soccer	Sacramento	0.7589	boxing, basketball, ice hockey	0.1624	952	Long Beach, San Jose, Anaheim	1.2328
+0	1235 m/s	0.0514	basketball	Riverside	0.3613	badminton	0.1798	-419	Fresno, Bakersfield, Fremont, Chula Vista, San Francisco	0.1534
+1	284 m/s	0.583	golf	lONG bEACH, mODESTO	0.4968	track & field	1.1209	1085	San Bernardino	1.1038
+1	1030 m/s	0.1504	boxing	San Diego, Long Beach	1.1095	volleyball	1.0329	1676	Moreno Valley	1.4258
+0	1290 m/s	0.3835	tennis	San Jose, Riverside, Santa Ana	0.7271	badminton	0.4381	381	San Diego	0.5651
+1	662 m/s	0.7555	golf	Long Beach, Modesto	0.9275	soccer, football	0.9399	830	Moreno Valley	1.0475
+1		0.8452	Boxing	San Diego	0.8499	soccer	0.7561	1076	San Bernardino	0.8384
+1	779 m/s	0.2997	boxing	San Diego	0.7336	soccer	0.9927	1141	Moreno Valley	0.8147
+0	817 m/s	0.3947	tennis	Riverside, Irvine	0.595	badminton	0.4205	-81	San Diego	0.7051
+0	1446 m/s	0.5834	basketball	Riverside	0.454	badminton	1.1503	-610	San Diego	0.6178
+3	724 m/s	-0.1165	badminton	Fremont, Bakersfield, Stockton, Chula Vista, San Francisco, San Bernardino	0.6596	tennis	0.7955	1270	Fremont, Bakersfield	0.9748
+1	643 m/s	0.1478	tennis	San Diego, Long Beach	0.7283	soccer, football	1.2251	250	Santa Clarita, Chula Vista, Bakersfield, Fresno, San Francisco	1.2492
+2	1120 m/s	0.6347	volleyball	Moreno Valley, Los Angeles, Oakland	0.2571	running	0.6018	1068	Santa Clarita	1.3336
+2	1007 m/s	0.2741	motor sports	Oakland, Los Angeles	-0.4004	golf	1.3391	1418	San Francisco, Chula Vista	1.0155
+3	837 m/s	0.5869	football	Santa Clarita, San Bernardino, Fresno	0.7172	track & field	1.118	11	Los Angeles, Santa Ana	1.4893
+0	728 m/s	0.3009	badminton	Santa Ana, Irvine	0.6644	badminton	0.8144	278	Sacramento	0.3154
+3	875 m/s	0.1024	baseball	Santa Clarita, Fresno, San Francisco, San Bernardino, Bakersfield, Fremont	0.152	track & field	0.8221	-236	Modesto	0.9072
+0	645 m/s	0.5196	basketball	Irvine, Riverside	1.0488	badminton	0.8603	66	Sacramento	-0.0521
+4	523 m/s	0.1928	soccer	Sacramento	1.0147	BASKETBALL, MOTOR SPORTS	0.1356	489	Anaheim, San Jose	0.6671
+0	1326 m/s	0.5761	basketball	San Jose, Santa Ana	0.4174	badminton	0.5062	-412	San Francisco, Fremont, Fresno, Bakersfield	0.3831
+4	-187 m/s	0.3128	soccer	Sacramento	0.3748	boxing, ice hockey, basketball	0.35	465	Oakland, Anaheim	0.7134
+3	1264 m/s	0.3277	soccer	Bakersfield, Fresno, San Bernardino, Stockton, Fremont, Chula Vista	0.6778	tennis	0.9492	-11	Riverside, Santa Ana, Irvine	0.7605
+0	1095 m/s	0.2529	badminton	Riverside, Irvine, Santa Ana	0.765	badminton	0.4545	-394	San Diego	0.3584
+1	957 m/s	0.492	boxing	San Diego, Long Beach	0.5582	volleyball	0.8808	1341	Moreno Valley	1.272
+4	482 m/s	0.3065	soccer	Sacramento	NULL	motor sports	0.6474	534	Oakland, San Jose	0.8979
+1	831 m/s	0.0104	golf	Modesto	1.2955	volleyball, soccer	1.1758	834	Moreno Valley	0.6415
+4	435 m/s	0.0644	soccer	Sacramento	0.7838	basketball, ice hockey	0.2298	705	Oakland, Long Beach	0.4408
+4	84 m/s	0.4624	running	Sacramento	0.9972	basketball, boxing	0.7524	1084	San Jose, Oakland	0.3103
+0	735 m/s	0.3312	basketball	Santa Ana, San Jose	0.6181	badminton	1.0126	114	Sacramento	0.1252
+2	1216 m/s	0.5611	volleyball	Oakland, Moreno Valley	0.6453	Running	1.0624	377	Chula Vista, Bakersfield, Santa Clarita, Fremont	1.6052
+2		-0.1401	motor sports	Moreno Valley, Los Angeles	0.6643	running, golf	1.2775	820	San Francisco, Fresno, Fremont	1.569
+4	696 m/s	0.1774	soccer	NULL	1.1361	basketball, ice hockey	0.743	1110	Oakland	0.2255
+3	1240 m/s	-0.2092	badminton	Fremont, Bakersfield, Fresno, San Bernardino	0.6559	track & field	1.3959	159	Los Angeles, Irvine, Riverside, Modesto, Santa Ana	None
+4	680 m/s	0.8056	running	Sacramento	0.9117	boxing	0.7404	218	Oakland, San Jose, Long Beach	0.4852
+0	1444 m/s	0.4163	basketball	Los Angeles	0.8431	badminton	0.7845	119	San Diego	-0.0032
+1	1195 m/s	0.8131	golf	Moreno Valley, Los Angeles, Anaheim	0.9694	football, volleyball	0.5887	536	Moreno Valley	1.5607
+3	1103 m/s	-0.0196	basketball	San Bernardino, Fresno	0.5145	track & field	0.9571	799	Modesto, Los Angeles, Irvine	0.767
+1	647 m/s	0.1154	boxing	San Diego, Long Beach	0.8248	volleyball	0.5567	1549	Moreno Valley	1.4416
+3	1002 m/s	0.4582	football	Stockton, Fresno, San Bernardino, Fremont	0.7561	boxing, basketball, ice hockey	0.8935	-159	Irvine, Modesto, Santa Ana, Riverside, Los Angeles	0.4072
+0	1136 m/s	0.8318	boxing	Stockton, Chula Vista, San Francisco, Santa Clarita, Bakersfield, Fremont, San Bernardino	0.8756	badminton	0.8001	385	San Diego	0.3645
+3	1023 m/s	-0.3152	badminton	Chula Vista	0.6534	track & field	0.6329	208	Irvine, Santa Ana, Stockton, Modesto, Riverside	0.5229
+0	1223 m/s	0.3283	basketball	San Jose, Riverside, Santa Ana	0.591	track & field	0.8291	264	Sacramento	0.0279
+0	1412 m/s	0.4956	basketball	Santa Ana, Riverside, San Jose	0.8749	badminton	0.8688	102	Sacramento	0.6886
+1	899 m/s	0.4359	boxing	MODESTO, SAN DIEGO	?	soccer	1.3028	748	Moreno Valley	1.0465
+1	178 m/s	0.4447	golf	San Diego	0.8871	football	1.0807	656	Moreno Valley	0.8526
+0	1277 m/s	0.5764	basketball	Irvine, Riverside	0.5843	badminton	0.6117	33	San Diego	0.1809
+2	814 m/s	0.7594	motor sports	Moreno Valley	0.2684	baseball, running	0.4382	540	Fresno, Santa Clarita, Bakersfield, Chula Vista	1.21
+1	1231 m/s	0.1652	boxing	Modesto, Long Beach	0.9552	soccer, volleyball	0.9784	223	San Bernardino	0.6661
+2	798 m/s	0.2201	volleyball	Oakland	0.096	running	0.2736	654	Sacramento	1.3238
+0	654 m/s	0.6201	basketball	Santa Ana, Irvine, San Jose	0.3784	badminton	0.6272	347	Sacramento	0.8082
+3	637 m/s	0.4816	volleyball	Riverside, Irvine	0.5059	tennis	1.0898	613	Modesto, Stockton	1.3031
+0	1274 m/s	0.3863	ice hockey	Irvine	0.7415	badminton	1.0154	-56	Sacramento	0.6052
+0	1565 m/s	0.6048	ice hockey	San Jose	0.8459	badminton	0.7618	614	Sacramento	0.3944
+3	1060 m/s	0.1433	badminton	San Bernardino	0.0459	track & field	0.8874	-130	Stockton, Irvine, Santa Ana	0.4534
+1	853 m/s	0.6841	boxing	Long Beach	0.657	volleyball	1.0863	847	Moreno Valley	1.504
+4	326 m/s	0.381	running	Sacramento	0.7102	motor sports, ice hockey	-0.0146	128	Oakland, Anaheim	0.2422
+3	319 m/s	0.3125	badminton	San Bernardino, Stockton, San Francisco, Fresno, Fremont	0.5431	n/a	1.13	567	Santa Ana, Irvine, Riverside, Los Angeles, Modesto	0.5267
+2	934 m/s	0.5177	soccer	OAKLAND, MORENO VALLEY	0.1302	golf, baseball	1.0979	849	San Francisco, Santa Clarita, Chula Vista, Fresno, Fremont	1.5956
+2	972 m/s	0.9193	motor sports	Anaheim, Los Angeles, Moreno Valley	0.2434	baseball, running	0.6973	1155	San Bernardino	0.218
+4	165 m/s	0.5643	Running	Sacramento	1.1141	boxing, ice hockey, motor sports	0.6304	954	Oakland, Long Beach, San Jose	0.6722
+1	774 m/s	0.3496	golf	Long Beach, Modesto	1.0778	football, soccer	0.728	827	SAN BERNARDINO	0.8841
+0	1002 m/s	0.4616	basketball	Riverside, Santa Ana	0.8085	badminton	0.5727	22	Sacramento	0.9326
+2	731 m/s	0.0682	motor sports	Moreno Valley, Anaheim, Los Angeles	0.7888	baseball, running	0.887	338	San Francisco, Bakersfield, Fremont, Chula Vista, Santa Clarita	0.7015
+4	420 m/s	1.2467	running	Sacramento	0.8812	boxing, basketball	0.2907	699	Moreno Valley	-0.0673
+1	784 m/s	0.9278	golf	Long Beach, San Diego	0.6983	soccer, football	1.2124	1560	Moreno Valley	1.3644
+0	1298 m/s	0.727	badminton	Riverside	0.4019	badminton	0.8405	-165	Sacramento	0.1414
+0	1103 m/s	0.5927	ice hockey	Irvine, Santa Ana	0.4928	badminton	0.7401	-374	Sacramento	0.0526
+1	831 m/s	0.5366	boxing	Long Beach	0.9584	soccer, volleyball	1.0642	-57	SAN BERNARDINO	1.0026
+1	1247 m/s	0.6088	golf	Modesto, Long Beach	0.7567	soccer	1.1511	120	Moreno Valley	0.7443
+0	917 m/s	0.5402	tennis	Irvine, Riverside, Santa Ana	0.797	badminton	0.8783	-523	San Diego	0.6979
+1	1004 m/s	-0.1244	boxing	Modesto	0.8793	football, volleyball	0.6753	1127	San Bernardino	0.9161
+4	538 m/s	1.187	SOCCER	Sacramento	1.232	ice hockey	0.4676	232	Oakland, Anaheim	0.4753
+2	892 m/s	0.5004	volleyball	Anaheim, Oakland, Moreno Valley	-0.0699	baseball	0.9875	886	Fresno, Bakersfield, Chula Vista, San Francisco	0.9932
+1	1417 m/s	-0.0032	running	San Diego	1.2726	volleyball, football	0.9963	806	San Bernardino	0.7003
+3	828 m/s	0.597	baseball	Santa Clarita, Fremont	0.1107	tennis	1.2264	511	Riverside, Santa Ana, Stockton, Modesto, Irvine	1.192
+4	856 m/s	0.0916	running	Sacramento	0.8609	motor sports, ice hockey, basketball	0.5673	827	Anaheim, Oakland	1.3787
+3	601 m/s	0.0336	golf	Fremont, Stockton, San Bernardino, Fresno, Santa Clarita, Bakersfield, Chula Vista	0.4852	tennis	1.1994	542	Riverside	0.5599
+0	904 m/s	0.6702	boxing	Sacramento	0.4241	badminton	0.5617	667	Sacramento	0.3835
+0	1835 m/s	0.2893	basketball	Santa Ana, Irvine	0.9641	badminton	0.6435	200	San Diego	0.0114
+4	175 m/s	0.9992	soccer	Sacramento	0.5835	boxing	0.5666	751	Anaheim, San Jose	-0.0887
+2	1026 m/s	0.2471	volleyball	Los Angeles, Moreno Valley, Anaheim	1.0015	baseball	0.8994	745	Santa Clarita, Fremont, San Francisco, Fresno	1.6548
+4	580 m/s	0.7891	soccer	Sacramento	1.0444	motor sports, basketball	0.0805	1778	Long Beach, Oakland, San Jose	0.837
+3	482 m/s	0.2934	baseball	Fremont, San Francisco, Chula Vista, Bakersfield, Stockton, San Bernardino, Fresno	0.5837	tennis	0.802	299	Riverside, Santa Ana, Modesto	0.9573
+0	1177 m/s	0.3978	tennis	Irvine, San Jose	0.5135	badminton	0.5643	116	San Diego	0.4844
+1	675 m/s	0.7794	golf	San Diego	1.6034	football, soccer	0.516	684	San Bernardino	0.751
+3	1101 m/s	0.1756	football	San Bernardino, Stockton, Fresno, Fremont, Chula Vista, Santa Clarita, Bakersfield	0.5922	track & field	0.6807	603	Irvine, Riverside	1.0553
+4	642 m/s	0.6954	boxing	Sacramento	0.8293	?	-0.0626	873	san jose, long beach, anaheim	1.0781
+0	1459 m/s	0.5038	basketball	Riverside, San Jose	0.6666	boxing, motor sports	0.6493	-206	San Diego	0.7682
+4	261 m/s	0.9955	soccer	Sacramento	0.699	ice hockey	0.4109	716	Oakland	0.6275
+1	1061 m/s	0.7349	golf	San Diego, Modesto	0.3546	football, volleyball	0.8153	927	San Bernardino	0.5788
+3	1241 m/s	0.5375	baseball	Fremont, San Bernardino, Chula Vista, Fresno	0.258	tennis	1.2364	-3	Los Angeles, Santa Ana, Irvine, Stockton, Riverside	0.8417
+4	702 m/s	1.2344	soccer	Sacramento	0.7758	ice hockey	0.4751	222	Long Beach, Anaheim	0.6708
+0	929 m/s	0.3067	tennis	Riverside	0.6436	badminton	0.5116	-90	San Diego	0.4219
+4	102 m/s	1.0726	SOCCER	Sacramento	0.6526	boxing	0.3249	?	San Diego	0.8907
+1	598 m/s	-0.0268	basketball	Riverside, San Jose	0.8223	n/a	1.1072	1235	San Bernardino	0.8399
+2	1060 m/s	0.9472	NULL	Anaheim	-0.0936	golf	0.8995	1304	Fremont, Fresno, San Francisco, Bakersfield	0.418
+4	961 m/s	0.4148	ice hockey	Sacramento	0.642	ice hockey, boxing, basketball	0.1218	578	San Diego	0.5545
+3	1007 m/s	0.2543	baseball	Stockton, Bakersfield, Fremont, San Francisco, Chula Vista	0.8552	track & field	0.7637	312	Riverside, Irvine, Modesto	1.1271
+3	946 m/s	0.461	ice hockey	Fremont	0.5362	track & field	1.6321	1183	Los Angeles, Stockton	0.6591
+3	1128 m/s	-0.1261	football	Santa Clarita, Stockton, Bakersfield, San Francisco	0.5148	track & field	0.706	619	Irvine	0.9415
+0	911 m/s	0.844	football	Santa Ana, San Jose, Riverside	0.3277	badminton	0.4502	-604	Sacramento	0.5545
+0	1092 m/s	0.5332	ice hockey	Santa Ana, Irvine	0.2625	badminton	0.9315	306	Sacramento	0.0048
+0	1115 m/s	0.2012	boxing	Riverside	0.689	badminton	0.8118	-515	San Diego	0.1802
+0	1491 m/s	0.3015	ice hockey	Irvine, San Jose, Santa Ana	0.9195	badminton	0.9962	73	Sacramento	0.4354
+1	1135 m/s	0.1945	boxing	San Diego	1.2627	football	1.3448	715	Long Beach, Anaheim, Oakland	0.9844
+4	531 m/s	0.9925	soccer	Sacramento	0.9131	ice hockey, basketball, boxing	0.2746	1227	Anaheim, San Jose	0.2883
+3	948 m/s	-0.0924	baseball	Chula Vista, Santa Clarita, San Bernardino, Bakersfield	0.5707	track & field	0.9947	56	Santa Ana, Los Angeles	0.8971
+0	912 m/s	0.7806	Soccer	Santa Ana, San Jose, Irvine	0.3153	BADMINTON	1.1059	-458	Sacramento	0.5696
+3	1046 m/s	0.063	baseball	Fremont	0.4585	Track & Field	1.3557	296	Sacramento	0.8645
+4	-131 m/s	1.0867	soccer	Sacramento	0.565	motor sports	0.5273	521	Anaheim, San Jose, Oakland	0.9793
+3	923 m/s	0.5301	badminton	Fremont, Chula Vista, Bakersfield, Stockton	0.5231	track & field	0.9859	221	Stockton, Modesto, Los Angeles	1.1602
+3	710 m/s	0.3421	football	FRESNO, BAKERSFIELD, SAN BERNARDINO, FREMONT, SANTA CLARITA, SAN FRANCISCO, CHULA VISTA	0.2167	track & field	0.6675	-121	IRVINE	1.2067
+0	1274 m/s	0.5546	tennis	Irvine, San Jose, Riverside	0.8734	badminton	0.5857	362	San Diego	0.3598
+2	421 m/s	0.9165	Motor Sports	Sacramento	0.0533	running	0.9564	1309	Bakersfield, Fresno, Fremont	0.8735
+3	1641 m/s	0.0669	tennis	Fresno, Bakersfield	0.7923	track & field	1.6396	425	Riverside, Los Angeles, Stockton, Santa Ana	0.6557
+4	661 m/s	1.1833	running	Sacramento	0.9429	motor sports, boxing, basketball	0.0595	1143	Oakland, Long Beach	0.7702
+0	704 m/s	0.6621	basketball	San Jose	0.4508	badminton	0.7069	21	San Diego	0.4341
+2	1463 m/s	0.1368	track & field	Los Angeles	-0.2327	golf, running	1.5	-138	cHULA vISTA	1.005
+0	1026 m/s	0.5121	basketball	San Jose, Riverside, Irvine	0.5569	tennis	0.7886	315	Sacramento	1.0469
+3	1210 m/s	-0.0807	badminton	Santa Clarita, San Francisco, Chula Vista	0.2829	track & field	NULL	962	Irvine	1.0463
+1	987 m/s	0.2841	golf	San Diego	1.1782	Volleyball	N/A	1016	mORENO vALLEY	0.8797
+4	470 m/s	0.4332	running	Sacramento	1.0366	ice hockey, motor sports, basketball	-0.0487	1761	Long Beach, Anaheim	1.0788
+3	578 m/s	-0.1488	NULL	Fremont, Bakersfield, Fresno, San Francisco	0.5213	track & field	1.2315	-176	Modesto, Santa Ana, Irvine	1.2338
+1	692 m/s	0.6448	N/A	San Diego, Modesto	0.8705	volleyball	1.1902	1105	Moreno Valley	1.3914
+0	699 m/s	0.5472	basketball	Irvine, San Jose, Santa Ana	0.2357	badminton	0.7695	-282	San Diego	0.1902
+3	706 m/s	0.033	football	Bakersfield	0.5825	tennis	0.7727	600	Irvine, Los Angeles, Stockton, Modesto, Santa Ana	0.9048
+2	1208 m/s	0.0515	volleyball	Los Angeles, Oakland	0.1214	running	1.3009	423	Bakersfield, Chula Vista, San Francisco, Fresno	1.3355
+0	836 m/s	0.4587	tennis	Riverside, Santa Ana, Irvine	0.1581	badminton	0.5134	503	San Diego	0.7837
+2	794 m/s	0.3567	motor sports	Oakland, Anaheim, Moreno Valley	0.2186	golf	1.2884	259	Bakersfield, Santa Clarita, Chula Vista, Fremont	1.2234
+2	1341 m/s	1.1684	track & field	Moreno Valley	0.0203	running, golf	1.0408	702	Santa Clarita	0.1818
+0	1097 m/s	0.3427	ICE HOCKEY	San Jose	-0.0869	badminton	1.0059	742	San Diego	0.8732
+3	1152 m/s	-0.1947	badminton	San Francisco, San Bernardino, Bakersfield	0.1221	track & field	1.3347	2	Riverside, Santa Ana, Irvine, Modesto	1.4298
+0	1416 m/s	0.5143	basketball	Riverside, San Jose	0.4885	badminton		692	Irvine	0.1321
+3	1461 m/s	0.3867	soccer	bAKERSFIELD, fRESNO, cHULA vISTA, sANTA cLARITA, sTOCKTON, fREMONT	0.5138	tennis	0.8078	-273	Riverside, Santa Ana	0.8811
+0	628 m/s	1.2734	golf	Santa Ana	0.8298	badminton	0.4466	184	San Diego	0.1931
+2	699 m/s	0.2448	volleyball	Oakland, Anaheim	0.6146	baseball, golf	1.0191	1191	Santa Clarita, Fremont, Fresno	1.1333
+2	922 m/s	0.8171	volleyball	Moreno Valley, Anaheim	0.4715	badminton	0.7726	945		0.6908
+2	1025 m/s	0.1654	baseball	Anaheim, Moreno Valley	0.2494	running	1.0246	1239	San Francisco, Fremont	1.3845
+2	1041 m/s	-0.0774	track & field	Anaheim	-0.1422	running	0.5906	652	Sacramento	0.5303
+3	749 m/s	-0.0836	badminton	Santa Clarita, Fresno, Bakersfield	0.203	football, soccer	0.6093	421	Stockton, Santa Ana, Riverside	0.3987
+3	895 m/s	0.741	baseball	Stockton, Fresno, San Francisco	0.8224	track & field	0.9543	46	Riverside, Los Angeles	0.9576
+3	744 m/s	0.2383	badminton	Chula Vista, Stockton	0.707	tennis	0.8108	16	?	1.0272
+1	750 m/s	0.8113	golf	Modesto	0.8343	soccer, volleyball	0.7101	780	San Bernardino	0.8991
+1	1321 m/s	0.2549	BASKETBALL	Long Beach	1.5131	soccer	0.9268	665	San Bernardino	0.3341
+4	725 m/s	0.4077	ice hockey	Sacramento	1.0149	boxing, ice hockey	0.4767	777	San Jose	0.5942
+4	262 m/s	-0.5211	soccer	Sacramento	0.4744	ice hockey, boxing, basketball	-0.0648	1017	Long Beach	0.2908
+3	1375 m/s	0.483	football	Stockton, San Bernardino, Bakersfield, Chula Vista, San Francisco	0.3971	tennis	0.9963	820	Modesto	0.9741
+4	112 m/s	0.7233	soccer	Sacramento	0.6663	basketball, motor sports	0.2145	882	Moreno Valley	0.8871
+3	879 m/s	-0.4077	badminton	Santa Clarita, Fresno, San Francisco	0.5163	track & field	1.3914	969	Riverside	0.7367
+0	1238 m/s	0.6871	ice hockey	Riverside, San Jose, Irvine	0.4266	badminton	0.5995	-216	San Diego	0.7564
+1	1058 m/s	0.3263	baseball	Long Beach, San Diego	0.6173	volleyball	1.3345	897	San Bernardino	0.8442
+3	1091 m/s	0.3169	badminton	Santa Clarita, Chula Vista, Bakersfield, San Bernardino	0.3177	track & field	0.9923	511	San Bernardino	?
+0	1090 m/s	0.84	tennis	Santa Ana, San Jose	0.6171	badminton	1.0074	-160	Sacramento	-0.2311
+3	1047 m/s	0.1605	football	San Bernardino, Santa Clarita, Fresno, Bakersfield, Fremont	0.1548	track & field	0.5633	503	Los Angeles, Modesto	1.0088
+3	1283 m/s	-0.0534	football	N/A	0.4583	TRACK & FIELD	0.8484	-44	Irvine, Los Angeles, Modesto, Riverside	1.8468
+1	985 m/s	0.4015	boxing	Modesto, San Diego	1.0314	football, soccer	1.5002	942	Moreno Valley	1.3743
+0	1127 m/s	0.2682	tennis	Riverside	0.4173	badminton	0.8844	627	San Diego	-0.0057
+3	575 m/s	0.5951	football	Bakersfield, Chula Vista, Fresno, Stockton, Santa Clarita, Fremont	0.9369	tennis	1.3077	-139	Riverside, Santa Ana	1.0509
+3	261 m/s	0.9589	football	Stockton, Fremont, Santa Clarita	0.4938	track & field	1.0423	531	Irvine, Modesto, Santa Ana, Riverside, Stockton	1.071
+3	880 m/s	0.3478	baseball	Fresno	0.065	tennis	1.4602	648	Stockton, Santa Ana, Riverside, Modesto	1.0454
+1	779 m/s	0.0722	golf	Modesto, San Diego	1.1244	soccer	1.0669	1167	Moreno Valley	1.1162
+2	621 m/s	0.6869	tennis	Los Angeles	0.5371	n/a	0.9433	517	San Francisco, Chula Vista	1.3726
+0	978 m/s	0.33	badminton	riverside, santa ana, san jose	0.3295	badminton	1.4359	-561	Sacramento	0.7576
+1	240 m/s	0.1295	golf	Long Beach	0.9056	football	0.5708	1313	San Bernardino	0.5701
+2	873 m/s	0.9503	tennis	Modesto	1.0489	golf	0.8418	567	Santa Clarita, San Francisco, Fremont	0.7056
+0	697 m/s	0.4811	N/A	NULL	0.8434	badminton	0.9487	329	San Diego	0.5847
+4	318 m/s	0.8235	soccer	Sacramento	1.1159	boxing, motor sports	0.9417	387	Anaheim, San Jose	0.3773
+1	449 m/s	0.7058	boxing	Modesto	0.7201	volleyball	0.99	568	San Bernardino	0.672
+4	753 m/s	0.4453	soccer	Sacramento	0.8272	motor sports	-0.2499	27	Anaheim, San Jose, Oakland	0.8352
+1	788 m/s	0.2847	boxing	San Diego	1.0514	soccer, volleyball	1.125	339	San Bernardino	1.0927
+4	862 m/s	1.2004	?	Sacramento	0.7462	boxing, ice hockey	0.0056	1131	Long Beach, Oakland	0.5253
+2	814 m/s	0.412	motor sports	Moreno Valley, Los Angeles	0.0537	golf, running	0.5193	866	Santa Ana	0.9961
+3	1196 m/s	-0.3164	football	Moreno Valley, Oakland	0.1521	track & field	1.3206	8	Los Angeles, Santa Ana	1.1477
+4	762 m/s	0.494	running	Sacramento	1.0021	basketball, ice hockey, boxing	0.1325	931	Long Beach, San Jose, Anaheim	0.6785
+2	776 m/s	0.2855	volleyball	Moreno Valley	0.3987	golf, baseball	0.9861	236	San Francisco	0.8655
+3	947 m/s	0.1178	badminton	Chula Vista, San Francisco, Bakersfield, Fresno	0.7034	soccer, volleyball	0.7282	-135	Riverside, Los Angeles	1.0844
+1	824 m/s	1.6853	boxing	Long Beach, San Diego	0.6235	volleyball	1.2939	977	Moreno Valley	0.6527
+4	374 m/s	0.2733	basketball	Sacramento	0.4561	motor sports, basketball, ice hockey	0.7007	487	Long Beach	0.0951
+1	1147 m/s	0.138	golf	Long Beach, Modesto	0.5962	football	0.747	1254	Moreno Valley	0.9126
+2	1355 m/s	0.9465	volleyball	Oakland, Los Angeles, Moreno Valley	0.4096	golf, running	0.8867	725	bAKERSFIELD	0.9518
+0	1102 m/s	0.7384	ice hockey	Irvine	0.6504	badminton	1.0123	410	n/a	0.1269
+2	1202 m/s	0.0108	track & field	Anaheim, Oakland, Moreno Valley	0.4189	baseball	0.9948	741	Santa Clarita	1.3136
+3	1154 m/s	N/A	basketball	Stockton, Santa Clarita, Chula Vista, Fresno, San Bernardino, Bakersfield, San Francisco	0.9834	tennis	1.2047	246	Riverside, Los Angeles, Modesto, Santa Ana, Stockton	0.7709
+3	672 m/s	0.4899	baseball	Santa Clarita, Chula Vista, Bakersfield, Fresno	0.0386	tennis	1.103	41	Los Angeles	1.0532
+4	1007 m/s	0.0058	soccer	Sacramento	1.2696	MOTOR SPORTS, BOXING	0.3181	968	Long Beach	0.5664
+0	406 m/s	1.0473	basketball	San Jose, Riverside	0.5931	badminton	0.9826	612	San Diego	1.0208
+0	820 m/s	0.2842	tennis	San Jose, Riverside	0.8795	badminton	1.1874	-284	San Diego	0.6045
+2	643 m/s	0.7212	motor sports	Los Angeles, Moreno Valley, Oakland	0.6888	boxing, motor sports, basketball	0.8244	940	Santa Clarita, Chula Vista, Fresno	0.9205
+1	1084 m/s	?	golf	Long Beach	0.6729	football, volleyball	0.9041	687	Moreno Valley	0.6311
+4	392 m/s	0.8623	running	Sacramento	0.6141	motor sports, boxing	0.0188	945	San Jose, Anaheim, Long Beach	1.1388
+0	798 m/s	0.9898	boxing	Irvine, Riverside, Santa Ana	0.2683	badminton	0.8095	751	Sacramento	0.2219
+4	-38 m/s	1.3072	soccer	Sacramento	1.0091	basketball, motor sports, ice hockey	0.6396	647	Anaheim, Oakland, Long Beach	0.7397
+0	952 m/s	0.4905	basketball	San Jose	0.4615	badminton	0.8148	-249	Sacramento	0.2326
+4	674 m/s	0.0523	soccer	Sacramento	0.862	motor sports, basketball	0.1661	n/a	Long Beach	1.5539
+2	976 m/s	0.1456	Track & Field	Oakland, Los Angeles, Moreno Valley	0.2349	BASEBALL	0.7348	361	Santa Clarita, Fremont	1.2657
+4	274 m/s	0.2176	soccer	Sacramento	0.1029	motor sports	0.7565	308	Long Beach	0.6501
+4	322 m/s	0.4374	badminton	Sacramento	0.8037	basketball	0.2295	768	Oakland, Anaheim	0.489
+0	1112 m/s	-0.1337	motor sports	Riverside, Santa Ana, Irvine	-0.0828	badminton	0.654	671	Sacramento	0.4565
+1	1007 m/s	0.2195	golf	Modesto, San Diego	1.2539	volleyball, soccer	1.1327	n/a	San Bernardino	1.0063
+0	902 m/s	0.3399	football	Irvine	0.3435	badminton	0.9324	-187	San Diego	0.479
+0	866 m/s	0.9302	tennis	San Jose, Santa Ana, Irvine	0.5301	badminton	0.535	250	San Diego	0.5033
+0	1044 m/s	0.1881	ice hockey	Irvine	0.7574	badminton	-0.0888	-392	San Bernardino	0.1661
+2	816 m/s	0.6578	track & field	Moreno Valley, Los Angeles, Oakland	0.0862	baseball, running	0.9533	666	Chula Vista, Fresno, Santa Clarita, San Francisco, Fremont	1.0403
+3	1297 m/s	0.528	badminton	Fresno, San Bernardino	0.7034	track & field	0.8227	-343	Santa Ana, Riverside, Irvine, Modesto, Los Angeles	0.9003
+4	571 m/s	0.8558	running	Sacramento	1.1639	boxing	0.8242	1445	Oakland, San Jose	0.3179
+3	342 m/s	0.2688	baseball	Fremont, Chula Vista, Bakersfield, San Francisco, Santa Clarita, Stockton	0.4832	tennis	1.0425	-584	Santa Ana, Los Angeles	1.267
+1	1162 m/s	0.964	golf	san diego	1.3204	soccer	0.7618	854	Moreno Valley	0.9201
+2	702 m/s	0.6662	volleyball	moreno valley	0.5271	baseball	1.3052	389	Fresno	1.5433
+2	1532 m/s	0.4057	motor sports	Oakland	0.4442	running	0.6291	1074	San Francisco, Chula Vista, Bakersfield	0.6846
+0	863 m/s	0.5388	tennis	Riverside, San Jose	0.2568	badminton	1.0328	258	Sacramento	0.9226
+3	1383 m/s	0.75	baseball	San Bernardino, Fresno	0.5987	track & field	1.3312	-501	Irvine, Stockton, Modesto	0.7682
+0	799 m/s	-0.006	tennis	Santa Ana	0.6982	badminton	0.319	70	Sacramento	0.339
+3	1630 m/s	0.133	football	BAKERSFIELD, SAN FRANCISCO, FRESNO, FREMONT		tennis	0.6623	-185	Riverside, Santa Ana, Irvine, Stockton	0.4616
+2	1231 m/s	0.3401	boxing	Oakland	0.2174	running	1.0888	1035	Bakersfield	0.3233
+1	792 m/s	0.393	golf	Modesto	0.4495	soccer	0.873	n/a	Moreno Valley	1.4789
+3	1467 m/s	NULL	football	San Francisco, Santa Clarita, Stockton, Fremont, Chula Vista	0.4392	badminton	1.2488	523	Santa Ana	0.9785
+0	895 m/s	0.5564	basketball	Santa Ana, Riverside, San Jose	0.3803	badminton	0.475	-682	Sacramento	-0.0593
+2	None	0.3809	MOTOR SPORTS	Oakland, Anaheim, Los Angeles	0.5531	golf	1.9239	365	Santa Clarita, Fremont, Fresno, Chula Vista	0.5768
+3	1270 m/s	0.1553	badminton	Chula Vista, Stockton, San Bernardino, Santa Clarita, Bakersfield	0.7849	tennis	1.0626	853	Stockton, Modesto, Santa Ana, Irvine, Los Angeles	1.097
+2	1302 m/s	0.2935	track & field	Los Angeles, Oakland	0.8044	running	1.1987	838	Chula Vista	0.6447
+3	935 m/s	0.5978	football	Fresno, Stockton, Santa Clarita, Fremont	0.2604	tennis	0.696	-19	San Diego	1.2172
+3	316 m/s	0.1192	baseball	San Francisco, San Bernardino, Santa Clarita, Fremont, Stockton, Chula Vista, Fresno	0.6933	tennis	0.9149	-78	Irvine	0.8387
+4	79 m/s	1.1668	baseball	Sacramento	1.0241	basketball	0.8971	1303	Anaheim, San Jose	0.7014
+1	963 m/s	0.4644	golf	Modesto	1.0434	soccer	1.2534	138	Moreno Valley	1.2409
+4	591 m/s	0.6213	running	Sacramento	0.4679	ice hockey	0.5116	1041	Anaheim, Long Beach, Oakland	1.3033
+0	745 m/s	0.4872	tennis	Irvine	0.8836	badminton	0.9939	240	Sacramento	0.2534
+4	442 m/s	0.2198	baseball	Sacramento	0.5255	basketball	0.3548	535	Long Beach, San Jose	0.8409
+2	1292 m/s	0.3742	volleyball	Los Angeles	0.2671	running	1.285	n/a	Chula Vista, San Francisco	1.1001
+2	675 m/s	0.5299	badminton	Anaheim	-0.2982	baseball, golf	1.2153	895	Chula Vista, San Francisco	1.203
+4	789 m/s	0.5657	soccer	Sacramento	0.2804	basketball, ice hockey	-0.0665	788	Long Beach, Anaheim, San Jose	1.2328
+1	572 m/s	0.7813	boxing	San Diego	0.6299	volleyball	1.0731	1040	Moreno Valley	1.344
+3	1097 m/s	-0.1734	track & field	Chula Vista, Stockton, Fresno	0.3488	tennis	1.5749	0	Irvine, Santa Ana, Riverside, Modesto	0.3452
+2	895 m/s	0.229	tennis	Los Angeles	0.4421	golf	1.0721	-101	Fremont, Bakersfield, Santa Clarita, Fresno, San Francisco	0.7495
+3	983 m/s	0.259	ice hockey	Chula Vista, Stockton	0.5526	track & field	1.0551	650	Stockton, Santa Ana	1.3435
+3	609 m/s	0.1751	badminton	San Francisco, Fresno, Chula Vista, Fremont, San Bernardino, Bakersfield	0.3785	tennis	0.9299	-277	Riverside, Stockton, Modesto, Santa Ana	1.2657
+2	797 m/s	-0.1306	track & field	Anaheim	-0.0187	running	1.1993	197	San Francisco, Chula Vista, Fresno, Bakersfield, Santa Clarita	1.0709
+1	851 m/s	-0.0881	boxing	San Diego, Modesto	NULL	volleyball	0.6965	619	San Bernardino	1.228
+1	854 m/s	0.9895	golf	Long Beach	0.7564	football, volleyball	0.8495	890	Moreno Valley	0.7965
+0	1532 m/s	0.364	ice hockey	San Jose, Riverside, Santa Ana	0.8986	badminton	1.1843	-135	Sacramento	0.2869
+3	230 m/s	0.3204	baseball	Fremont, San Francisco, Stockton, Chula Vista	0.1078	track & field	1.154	-246	San Francisco, Chula Vista, Bakersfield, Santa Clarita	0.8226
+1	981 m/s	0.4819	golf	Modesto, San Diego	0.468	baseball	1.4863	842	San Francisco, Fremont	0.6378
+2	1249 m/s	?	motor sports	Anaheim, Oakland	0.183	baseball, golf	0.7281	311	Bakersfield, Santa Clarita	0.923
+2	1315 m/s	0.4213	track & field	Moreno Valley, Los Angeles	0.035	golf	0.9143	690	San Francisco, Fresno, Fremont, Chula Vista, Bakersfield	0.2738
+1	1001 m/s	0.0024	golf	Santa Clarita, San Francisco, Fremont, San Bernardino	1.3036	volleyball	1.149	322	Moreno Valley	0.7887
+1	1212 m/s	0.2088	golf	Modesto	1.2432	Football, Soccer	0.9551	956	San Bernardino	1.2965
+3	1380 m/s	-0.3525	baseball	San Bernardino, Bakersfield, San Francisco, Fremont, Fresno, Stockton, Chula Vista	0.887	TRACK & FIELD	1.6039	421	Modesto, Los Angeles, Riverside, Irvine, Santa Ana	1.0524
+4	551 m/s	0.4334	running	Sacramento	0.8101	boxing, motor sports, basketball	0.5824	1237	Anaheim, Long Beach, Oakland	0.7577
+1	377 m/s	0.0907	golf	Modesto	1.2257	football	0.9862	792	San Bernardino	0.6721
+4	824 m/s	1.0281	running	Sacramento	0.5118	ice hockey	0.0381	915	Sacramento	0.2332
+4	449 m/s	0.9893	soccer	None	0.9476	basketball, ice hockey	0.4472	1715	Oakland, San Jose, Anaheim	1.1518
+4	229 m/s	0.0161	running	Sacramento	0.4791	motor sports, boxing	0.1538	1097	Oakland	0.4175
+1	733 m/s	0.523	volleyball	Modesto, San Diego	0.8538	football	1.4092	266	Stockton, Riverside, Los Angeles, Modesto	1.6057
+2	1004 m/s	0.556	track & field	Anaheim, Los Angeles	0.4453	golf	1.0554	215	Fremont, Chula Vista, San Francisco, Bakersfield, Fresno	0.6656
+3	984 m/s	0.4424	badminton	Fresno, Santa Clarita, Bakersfield	0.4039	track & field	1.4108	314	Santa Ana, Stockton, Irvine	0.8979
+4	655 m/s	0.5116	soccer	Sacramento	0.7594	boxing, ice hockey	0.076	810	San Jose, Long Beach	0.9839
+3	982 m/s	-0.0884	football	San Jose	0.4319	tennis	1.2436	2	Santa Ana, Riverside, Stockton, Los Angeles, Modesto	0.209
+3	1129 m/s	0.043	golf	Bakersfield	0.493	tennis	0.8924	36	Stockton, Santa Ana, Irvine	0.1852
+4	880 m/s	0.7178	running	Moreno Valley	0.8422	motor sports, ice hockey, boxing	0.4637	1070	San Jose, Oakland, Long Beach	0.8407
+0	1258 m/s	0.8417	basketball	Santa Ana	0.1992	badminton	0.9403	176	Sacramento	0.7708
+0	717 m/s	0.4006	ice hockey	Riverside, Santa Ana	0.3942	Badminton	1.0382	494	San Diego	0.4266
+2	739 m/s	0.38	motor sports	Anaheim	0.6231	running, golf	0.7012	283	San Francisco, Fresno, Fremont, Santa Clarita	0.9096
+1	498 m/s	0.4072	boxing	Long Beach	0.6605	soccer, football	1.1899	1066	Moreno Valley	1.076
+2	1082 m/s	0.7555	motor sports	Oakland, Moreno Valley	0.2083	running, golf	1.1324	606	Bakersfield, San Francisco	0.034
+3	1009 m/s	0.5935	baseball	Bakersfield, Chula Vista, Fremont, San Bernardino, Santa Clarita, San Francisco, Fresno	0.8068	tennis	0.531	-35	Stockton	1.2554
+4	308 m/s	0.5757	soccer	Sacramento	0.3607	boxing, ice hockey, basketball	0.2386	474	Long Beach, San Jose, Oakland	0.5662
+1	933 m/s	0.6674	boxing	Modesto, San Diego	0.738	soccer, football	0.7772	172	Long Beach	0.6642
+3	529 m/s	0.7818	football	Fremont, Stockton, Bakersfield, Fresno, Chula Vista, San Bernardino	0.7736	tennis	0.6444	N/A	Stockton, Riverside	1.0056
+2	1060 m/s	-0.625	motor sports	Oakland, Moreno Valley	0.5207	baseball, golf	0.5914	-131	San Francisco, Santa Clarita, Fresno, Bakersfield, Fremont	0.3451
+2	1349 m/s	0.5092	motor sports	Moreno Valley, Los Angeles	0.3195	baseball, golf	0.9009	1049	Los Angeles, Stockton, Santa Ana, Riverside, Irvine	0.9994
+4	133 m/s	0.5649	soccer	Sacramento	0.7668	boxing, motor sports, ice hockey	0.7363	1432	Santa Clarita	1.0283
+3	783 m/s	-0.2804	badminton	San Francisco, Chula Vista, Bakersfield, Stockton, Fremont	0.7597	tennis	0.876	-454	Santa Ana, Los Angeles, Riverside	1.4627
+3	1297 m/s	0.469	badminton	San Francisco, Chula Vista, Fresno, Stockton, San Bernardino, Fremont	0.2141	track & field	1.0114	-327	Irvine, Santa Ana	1.2215
+2	1101 m/s	0.8156	motor sports	Moreno Valley, Anaheim, Los Angeles	-0.3856	baseball, golf	0.5997	115	Fremont, San Francisco, Chula Vista, Bakersfield	0.5631
+0	1130 m/s	0.866	tennis	Riverside, San Jose	0.9141	badminton	1.0509	23	San Diego	0.1563
+2	1151 m/s	0.6025	badminton	Irvine	0.5745	baseball, running	1.0001	758	Fresno, Santa Clarita	0.9772
+2	1294 m/s	0.3654	volleyball	Moreno Valley, Anaheim	0.1902	running, golf	1.2583	510	Bakersfield, San Francisco, Chula Vista, Fremont, Fresno	1.2538
+2	738 m/s	-0.0923	track & field	Anaheim	0.2814	baseball	1.0408	457	Santa Clarita, San Francisco, Bakersfield, Fresno	0.748
+1	661 m/s	0.2509	golf	Modesto, Long Beach	0.8517	football	0.8621	1031	San Bernardino	1.4056
+1	1406 m/s	0.5003	golf	Modesto	1.048	baseball, running	0.9213	1148	San Bernardino	1.0058
+1	525 m/s	-0.0869	boxing	Modesto	0.804	football	0.8741	545	San Bernardino	0.8313
+1	704 m/s	0.6356	golf	Modesto	0.9665	football	1.2714	720	San Bernardino	0.8334
+2	857 m/s	0.5196	MOTOR SPORTS	Anaheim	0.4049	baseball, golf	1.1769	372	Fremont, Bakersfield, Santa Clarita, Chula Vista, San Francisco	1.1433
+1	885 m/s	0.428	golf	Long Beach	0.9681	volleyball, football	1.1295	744	moreno valley	0.8145
+3	1109 m/s	0.3958	golf	San Bernardino, Bakersfield, Santa Clarita, Chula Vista, San Francisco, Fremont, Fresno	0.1056	track & field	1.0921	758	Riverside, Modesto	1.3225
+2	1193 m/s	0.3514	motor sports	Los Angeles	-0.2545	golf, running	0.9796	803	Bakersfield, Santa Clarita, San Francisco, Fremont, Chula Vista	1.0635
+4	597 m/s	0.7779	running	Sacramento	0.6151	boxing, basketball	1.1642	62	Oakland, San Jose, Anaheim	0.7275
+1	740 m/s	0.6977	golf	long beach	0.8197	football, soccer	1.0308	704	sAN bERNARDINO	0.2375
+4	56 m/s	0.6724	soccer	Sacramento	0.7437	basketball, ice hockey, boxing	0.168	278	San Jose, Oakland	0.7617
+3	1409 m/s	-0.0153	badminton	San Bernardino, Santa Clarita, Fremont, San Francisco, Chula Vista, Fresno	0.3415	track & field	1.1376	305	Irvine, Los Angeles	1.0143
+0	1019 m/s	0.3632	basketball	Santa Ana, Irvine, Riverside	0.8523	badminton	0.9046	372	Sacramento	0.5388
+2	692 m/s	0.389	volleyball	Anaheim, Los Angeles	0.6026	baseball	0.7887	2260	Fresno	1.1781
+3	997 m/s	0.8135	golf	Chula Vista, Stockton, Santa Clarita	n/a	track & field	1.3912	-178	Santa Ana, Los Angeles, Stockton, Riverside, Modesto	1.0164
+4	628 m/s	0.6342	soccer	San Diego	0.6966	motor sports, ice hockey, basketball	1.0265	880	Oakland, San Jose	0.8562
+1	1098 m/s	0.7654	boxing	Long Beach, San Diego	1.0051	soccer, volleyball	1.4206	900	San Bernardino	0.5522
+2	1167 m/s	0.452	track & field	Oakland, Anaheim, Moreno Valley	0.0429	baseball	0.7759	919	Chula Vista, Santa Clarita, Bakersfield	0.8134
+4	1027 m/s	0.4665	soccer	Irvine, Santa Ana, San Jose	1.0642	baseball, running	0.2807	-232	Oakland	0.474
+3	1303 m/s	-0.2111	football	Fresno	0.2439	tennis	1.2978	71	Riverside, Los Angeles, Santa Ana, Irvine, Modesto	1.7601
+0	340 m/s	0.5181	ice hockey	San Jose, Irvine, Riverside	0.9165	Badminton	1.0215	471	Fremont, Fresno, Bakersfield, San Francisco	0.6147
+2	1099 m/s	0.4046	volleyball	San Jose, Riverside, Irvine	-0.0452	running, golf	0.9614	460	Santa Clarita	0.9355
+1	1103 m/s	-0.1241	golf	Long Beach	1.5254	soccer	1.0286	535	San Bernardino	0.4849
+4	977 m/s	1.5615	running	Sacramento	1.2406	basketball, ice hockey	0.8394	1369	Anaheim, Oakland	0.4605
+1	1033 m/s	0.5699	golf	Modesto, San Diego	0.8221	Soccer	1.2106	401	Moreno Valley	0.7342
+0	1020 m/s	0.1432	tennis	Oakland	0.4746	badminton	1.1872	492	Sacramento	-0.0599
+1	648 m/s	0.1916	boxing	San Diego, Long Beach	1.1013	volleyball	0.7763	233	San Bernardino	0.5859
+1	781 m/s	0.9179	golf	Long Beach, San Diego	-0.001	soccer	1.0131	446	San Bernardino	0.7069
+0	698 m/s	0.4139	tennis	San Jose	-0.0626	badminton	0.9964	-603	San Diego	0.9512
+4	542 m/s	0.6872	golf	Sacramento	1.0391	ice hockey, boxing	0.3063	1069	San Jose, Long Beach	0.6142
+0	768 m/s	0.6308	tennis	San Jose, Irvine	0.6752	badminton	0.9506	-387	San Diego	0.274
+4	420 m/s	0.789	soccer	Fresno, Fremont, Bakersfield	0.7019	ice hockey	0.022	1103	Riverside, Modesto, Los Angeles, Irvine	1.1803
+3	992 m/s	0.6062	baseball	Fresno, San Francisco, Fremont, Stockton, Bakersfield, Santa Clarita, Chula Vista	0.9631	track & field	0.6947	398	iRVINE, rIVERSIDE, mODESTO, sANTA aNA, lOS aNGELES	1.276
+0	518 m/s	0.1024	ice hockey	SAN JOSE, SANTA ANA	0.5318	badminton	0.6408	-179	Sacramento	0.485
+0	830 m/s	0.4951	ice hockey	Irvine	0.9254	badminton	0.8736	881	San Diego	0.6324
+1	811 m/s	0.6984	soccer	San Diego, Modesto	1.1738	football, soccer	1.1653	1245	San Diego	1.158
+4	371 m/s	0.8	running	Sacramento	0.755	badminton	0.5492	1072	Anaheim, San Jose, Long Beach	0.7637
+3	908 m/s	0.2345	baseball	Fremont, Bakersfield, San Francisco, Santa Clarita	0.4742	track & field	1.0306	679	Santa Ana, Irvine, Los Angeles, Riverside, Modesto	1.2868
+0	1261 m/s	0.1324	basketball	Irvine, San Jose	0.4411	badminton	0.6542	338	San Diego	0.3156
+0	1445 m/s	0.2366	ice hockey	Riverside, San Jose	n/a	badminton	1.1077	385	Sacramento	0.5195
+4	396 m/s	0.7167	running	Sacramento	0.5115	motor sports, boxing, ice hockey	0.3249	1096	Sacramento	0.7054
+2	1329 m/s	0.8251	motor sports	Los Angeles, Moreno Valley, Anaheim	-0.1923	golf	1.0662	484	Fresno	1.3551
+0	1042 m/s	0.2497	tennis	San Jose	0.4847	BADMINTON	0.857	531	San Diego	-0.2139
+3	1181 m/s	0.4195	football	Fresno, Chula Vista, Stockton, Bakersfield, San Bernardino, Fremont, San Francisco	0.8286	tennis	1.1666	273	Riverside, Santa Ana, Irvine	1.3751
+3	1189 m/s	-0.1314	golf	fremont, chula vista, santa clarita, san bernardino, san francisco	0.2884	track & field	0.2624	1443	Stockton, Modesto	0.5278
+3	685 m/s	-0.0041	badminton	Fresno	0.1281	track & field	1.2902	987	Chula Vista, Fresno	0.5442
+4	379 m/s	1.1628	running	Sacramento	0.246	ice hockey, motor sports	0.3976	910	San Jose, Long Beach	0.8848
+2	1224 m/s	0.3303	volleyball	Los Angeles	0.1119	running	0.9759	734	Fremont, Chula Vista	1.0511
+4	579 m/s	0.7949	soccer	Modesto	1.04	motor sports, ice hockey, basketball	0.6507	-107	Anaheim, Oakland	0.8033
+1	N/A	-0.1597	golf	Long Beach, Modesto	1.105	volleyball, football	0.8154	1003	Moreno Valley	0.7572
+1	1115 m/s	0.3371	boxing	Riverside	0.848	volleyball, soccer	1.0398	611	Moreno Valley	0.2591
+4	330 m/s	0.4947	soccer	Sacramento	0.8602	basketball	0.6228	789	San Jose, Oakland	0.5214
+3	877 m/s	0.2017	boxing	Fresno, Fremont, Chula Vista, Santa Clarita, San Francisco, Stockton, Bakersfield	0.8255	track & field	0.7276	171	Los Angeles, Riverside	0.6499
+1	1141 m/s	0.396	boxing	Modesto	0.8094	volleyball	?	1041	Moreno Valley	1.695
+2	935 m/s	1.0318	track & field	Los Angeles	0.5224	running	0.9897	674	San Diego	0.1607
+1	841 m/s	0.4295	golf	Long Beach	0.8357	volleyball, football	0.9242	845	Moreno Valley	0.92
+2	1408 m/s	0.6485	motor sports	Sacramento	0.3811	Running	0.7754	736	Chula Vista, San Francisco, Bakersfield	0.9953
+1	939 m/s	0.3882	track & field	Long Beach, San Diego	0.5355	volleyball	0.5492	1057	Moreno Valley	0.6768
+1	838 m/s	0.2669	boxing	San Diego, Modesto	1.1787	volleyball	1.1755	904	Moreno Valley	0.6262
+2	1165 m/s	0.9673	track & field	Moreno Valley, Anaheim, Los Angeles	0.8562	golf	0.3305	616	San Francisco, Chula Vista, Santa Clarita	0.6142
+3	1085 m/s	0.8647	baseball	San Francisco, Fresno, Chula Vista, Fremont, Stockton, Bakersfield, Santa Clarita	0.9339	tennis	0.4469	418	Stockton, Riverside, Irvine, Los Angeles, Santa Ana	1.3795
+3	1253 m/s	0.3546	badminton	Fresno, Stockton, San Bernardino	0.388	track & field	1.3524	551	Moreno Valley	0.6402
+4	575 m/s	1.2051	soccer	Sacramento	0.9523	basketball, boxing, ice hockey	0.3148	1458	Anaheim, Long Beach, Oakland	1.2251
+4	273 m/s	0.7069	soccer	San Diego	0.8702	ice hockey, basketball, boxing	-0.0953	547	San Jose	0.5593
+0	780 m/s	0.649	ice hockey	Irvine, San Jose	0.6787	badminton	0.3761	-668	San Diego	0.857
+4	742 m/s	0.6495	boxing	Anaheim	0.7553	boxing, motor sports, ice hockey	0.5022	1070	Long Beach, San Jose	0.7146
+0	835 m/s	1.6473	ice hockey	Riverside, Irvine	0.1311	badminton	0.6103	-617	Sacramento	1.2717
+2	1121 m/s	-0.1535	track & field	Moreno Valley, Oakland, Anaheim	0.4299	baseball, golf	0.834	1192	Fremont	0.9709
+2	774 m/s	-0.2559	basketball	Los Angeles, Oakland	0.4776	badminton	0.4339	151	Fremont, San Francisco, Fresno, Santa Clarita, Bakersfield	1.1874
+2	777 m/s	0.6639	basketball	lOS aNGELES, oAKLAND	0.4506	golf	1.2329	668	Fresno, Chula Vista	0.6245
+0	1065 m/s	0.547	basketball	San Jose	0.8173	badminton	0.3076	1013	NULL	0.1671
+4	755 m/s	0.8576	soccer	Sacramento	0.9256	basketball	0.4071	1166	San Jose, Long Beach, Oakland	0.4279
+3	718 m/s	0.1838	badminton	Bakersfield, Fremont, San Francisco, Stockton	0.7512	tennis	0.5919	721	Stockton, Modesto, Riverside	1.2136
+4	605 m/s	0.7243	running	Sacramento	0.8762	motor sports, boxing	0.4655	482	Long Beach	0.8006
+4	489 m/s	0.5742	soccer	Sacramento	1.0965	basketball, ice hockey, boxing	0.5534	1671	Oakland, Anaheim, Long Beach	0.6988
+2	1034 m/s	0.1582	motor sports	Oakland	0.474	running, golf	1.399	835	Fremont, Bakersfield, San Francisco, Fresno	0.529
+3	842 m/s	0.2069	badminton	Fremont, Bakersfield, Fresno, Chula Vista, San Bernardino, Stockton	0.1164	tennis	0.6008	124	Irvine, Stockton, Santa Ana, Los Angeles, Modesto	1.0803
+0	1096 m/s	0.7775	ice hockey	Riverside, Santa Ana	0.5566	badminton	0.5099	226	SACRAMENTO	0.6047
+4	858 m/s	0.7631	soccer	Sacramento	0.3997	motor sports	0.3103	1135	Oakland, San Jose, Anaheim	1.1202
+2	1115 m/s	0.3072	volleyball	San Francisco, Santa Clarita, Chula Vista, San Bernardino, Bakersfield, Fremont, Fresno	0.0295	baseball	0.4614	984	Chula Vista, Bakersfield, Santa Clarita, Fresno	1.9306
+2	1172 m/s	0.3765	volleyball	Los Angeles, Moreno Valley	0.1687	baseball, running	1.4388	514	Chula Vista, San Francisco, Santa Clarita, Fremont, Fresno	1.3598
+1	758 m/s	0.9789	volleyball	Long Beach	1.2945	volleyball, football	0.9336	796	San Bernardino	0.7442
+4	1262 m/s	0.5045	soccer	Sacramento	1.0282	boxing	0.451	468	Long Beach, San Jose	0.9991
+4	916 m/s	0.5919	running	Sacramento	0.6691	boxing	0.3083	471	Long Beach, San Jose, Anaheim	0.4562
+4	369 m/s	0.7905	soccer	Sacramento	0.893	boxing, basketball	0.6831	1521	Bakersfield, Santa Clarita, Fremont, Chula Vista	1.0305
+1	1396 m/s	0.3272	boxing	San Diego	0.8044	football	1.0649	165	San Bernardino	1.0675
+4	939 m/s	1.0871	soccer	None	0.3112	boxing	-0.2508	579	Oakland, Anaheim, Long Beach	0.3643
+2	973 m/s	-0.2247	track & field	Los Angeles, Moreno Valley, Anaheim	0.1752	baseball	0.9624	1630	Moreno Valley	1.5122
+0	976 m/s	0.9478	track & field	Riverside	0.0398	badminton	1.0776	-511	San Diego	0.5649
+0	1208 m/s	0.2778	ice hockey	Santa Ana	0.9979	boxing, motor sports, ice hockey	1.1002	-722	San Diego	1.3041
+0	916 m/s	0.4551	tennis	Santa Ana, San Jose	0.5679	badminton	0.5721	463	Sacramento	0.7875
+3	828 m/s	0.4713	badminton	Oakland, Anaheim	0.3172	track & field	1.0326	134	Irvine, Riverside, Santa Ana	1.2004
+1	371 m/s	-0.2067	boxing	San Diego, Long Beach	1.1689	football, soccer	1.2195	379	Moreno Valley	1.5118
+3	1933 m/s	0.3185	badminton	Fremont, San Bernardino, San Francisco, Santa Clarita	0.0914	track & field	0.7682	326	Modesto, Riverside	0.6921
+2	1325 m/s	0.1553	TRACK & FIELD	Los Angeles, Anaheim	0.2939	Baseball, Running	0.619	993	Santa Clarita, San Francisco, Fremont	1.045
+4	-193 m/s	0.8748	ice hockey	Sacramento	0.8503	ice hockey, basketball, boxing	-0.0013	758	Riverside, Modesto, Stockton, Santa Ana	1.2522
+1	471 m/s	0.6236	golf	Long Beach	0.7802	volleyball, football	0.8516	302	Moreno Valley	1.1955
+0	883 m/s	1.2403	motor sports	Santa Ana, Riverside	0.7641	badminton	0.967	-379	Sacramento	0.925
+3	1010 m/s	0.2463	football	Santa Clarita, San Francisco, Chula Vista, Bakersfield	0.3223	tennis	1.3226	181	Modesto, Stockton, Irvine, Santa Ana, Los Angeles	1.1981
+4	405 m/s	0.0376	RUNNING	Sacramento	0.6791	basketball, motor sports	0.0009	1272	San Jose, Anaheim	0.911
+1	910 m/s	0.7721	boxing	Long Beach, San Diego	0.5139	football	0.9802	630	n/a	0.7255
+3	877 m/s	0.0286	baseball	Santa Clarita, San Francisco, San Bernardino	0.4964	tennis	0.8682	-221	Modesto	0.3508
+1	672 m/s	1.0995	boxing	Modesto	1.0214	volleyball	1.184	1043	San Bernardino	1.1237
+4	480 m/s	0.8498	running	Sacramento	1.0274	basketball, boxing	0.7825	784	San Jose, Long Beach, Oakland	0.908
+2	1493 m/s	0.4387	motor sports	Moreno Valley	0.2735	golf, baseball	0.8348	309	Santa Clarita, San Francisco, Fremont	0.9032
+0	925 m/s	0.989	ice hockey	San Jose, Riverside	0.1464	badminton	0.8524	226	San Diego	-0.195
+2	1006 m/s	0.8119	motor sports	Anaheim, Moreno Valley, Oakland	0.1588	track & field	0.4334	649	Anaheim, San Jose, Oakland	0.8198
+0	1032 m/s	0.5567	basketball	Santa Ana, Riverside, San Jose	0.3996	badminton	0.9341	-248	San Diego	0.5648
+3	757 m/s	0.1547	baseball	San Bernardino, Santa Clarita, Bakersfield, Fremont	0.2881	track & field	1.0414	840	STOCKTON, IRVINE	0.6018
+3	921 m/s	0.4294	football	San Francisco	0.3294	track & field	1.2346	337	Anaheim, Oakland, Long Beach	0.6388
+4	386 m/s	0.9165	soccer	Sacramento	0.6576	motor sports, boxing, basketball	0.4639	1163	Long Beach, San Jose	0.9592
+2	594 m/s	0.4853	track & field	Los Angeles, Anaheim, Moreno Valley	1.0505	golf, running	0.5286	348	Bakersfield, Fresno	0.8649
+1	767 m/s	0.717	boxing	San Diego	0.8311	football	1.1852	595	San Bernardino	1.2902
+0	1063 m/s	0.1568	tennis	San Jose, Irvine	0.8162	badminton	1.1188	-135	Sacramento	0.2145
+4	399 m/s	0.5831	soccer	Sacramento	0.7992	boxing, basketball	0.4613	114	fREMONT	0.9875
+4	445 m/s	1.2295	running	Sacramento	0.545	basketball, boxing	-0.0157	1139	OAKLAND, LONG BEACH, ANAHEIM	0.6166
+4	1070 m/s	0.8172	running	Sacramento	0.9306	boxing, ice hockey, basketball	0.1384	1303	Oakland, Long Beach	0.8611
+4	654 m/s	0.5711	track & field	Long Beach	0.4928	boxing	0.9989	542	Moreno Valley	0.3509
+0	946 m/s	0.5387	tennis	Irvine	1.1138	badminton	0.6381	25	Sacramento	0.2789
+4	524 m/s	0.5357	soccer	Sacramento	0.7004	ice hockey	0.8406	1143	Long Beach	0.8833
+2		0.3539	running	Los Angeles, Moreno Valley, Anaheim	0.5579	running, baseball	0.7594	1025	Santa Clarita, Fresno	1.2683
+2	1130 m/s	-0.0302	soccer	Oakland	0.0982	running, golf	0.9684	71	San Diego	0.9802
+2	955 m/s	0.5439	track & field	Anaheim, Moreno Valley	0.23	baseball, golf	1.1622	367	Fremont, San Francisco, Santa Clarita, Fresno, Bakersfield	0.6524
+4	503 m/s	0.4591	running	Sacramento	0.9196	basketball, ice hockey, boxing	-0.154	784	Oakland, Long Beach, San Jose	0.3426
+2	1259 m/s	0.2435	track & field	Anaheim	0.2237	baseball	0.9518	871	Fresno, Fremont, Bakersfield, San Francisco	0.722
+1	332 m/s	0.1151	golf	Modesto, Long Beach	0.5637	volleyball, soccer	1.2625	659	San Bernardino	1.0732
+1	1004 m/s	0.4792	track & field	Modesto	1.1185	soccer	0.937	371	Moreno Valley	1.4163
+2	637 m/s	0.1435	golf	Oakland	-0.1767	baseball	1.2694	811	San Francisco, Fresno, Fremont, Chula Vista	1.4398
+2	1146 m/s	0.7183	volleyball	Los Angeles, Moreno Valley	0.7755	running	0.5223	156	Santa Clarita	0.9644
+0	763 m/s	0.5456	ice hockey	Irvine	0.7141	badminton	1.2987	207	San Diego	0.1141
+2	1405 m/s	0.7766	volleyball	n/a	0.4051	running	0.724	827	San Francisco, Bakersfield	1.1888
+3	1430 m/s	0.2277	badminton	San Francisco, San Bernardino	0.226	track & field	1.0792	245	Modesto, Los Angeles	1.1794
+1	291 m/s	0.0601	track & field	Los Angeles, Oakland	0.8589	Football	1.1942	925	Modesto, Santa Ana, Irvine, Los Angeles	0.4129
+4	434 m/s	1.1268	soccer	Sacramento	0.6192	basketball, ice hockey	-0.1315	582	Anaheim, Long Beach	0.6049
+3	1097 m/s	0.8619	football	San Bernardino	0.0851	tennis	1.3787	1106	Riverside, Santa Ana, Los Angeles, Irvine	1.3509
+2	1111 m/s	0.5537	track & field	Los Angeles, Anaheim, Oakland	0.2006	tennis	0.943	1042	Chula Vista	0.731
+1	374 m/s	0.252	boxing	Modesto	0.9371	motor sports	1.2318	899	Moreno Valley	0.9507
+3	538 m/s	0.137	baseball	Stockton, Chula Vista	0.2059	track & field	1.2487	-104	Irvine, Los Angeles	0.7584
+4	427 m/s	-0.0827	soccer	Sacramento	0.7375	boxing, basketball	0.4611	-213	San Jose, Long Beach	0.6792
+2	1049 m/s	0.2027	volleyball	Los Angeles	0.686	baseball	1.1081	830	Bakersfield, Fremont, San Francisco	1.3916
+1	1156 m/s	0.5047	soccer	San Diego, Long Beach	0.7098	ice hockey, boxing, motor sports	1.0803	939	San Francisco, Chula Vista, Fremont	0.8775
+0	734 m/s	0.3027	tennis	Riverside	0.8815	Badminton	0.2704	112	Sacramento	0.4746
+0	1265 m/s	0.8607	boxing	Riverside, Irvine	0.707	badminton	0.6612	378	San Diego	0.1822
+3	1120 m/s	0.8382	baseball	San Bernardino	0.5329	tennis	0.7453	32	Stockton, Irvine	0.6663
+4	432 m/s	0.1563	soccer	Sacramento	0.8123	basketball, motor sports, ice hockey	0.4782	970	Anaheim	1.0792
+0	1285 m/s	1.2293	TENNIS	Santa Ana, San Jose, Riverside	1.0078	badminton	0.9619	-161	San Diego	0.7441
+4	322 m/s	0.2954	running	Sacramento	0.6827	basketball	0.2657	1244	oakland, san jose, long beach	0.8551
+3	754 m/s	0.0263	football	Sacramento	0.9841	tennis	0.5466	-46	Modesto, Santa Ana, Irvine, Stockton	0.4746
+2	1132 m/s	0.6754	track & field	Oakland	0.4048	baseball, running	1.1102	371	Santa Clarita, Bakersfield, Fremont	1.2944
+1	778 m/s	0.5066	golf	San Diego, Long Beach	1.6551	soccer	0.947	1042	San Bernardino	1.1911
+1	1009 m/s	0.2699	golf	Long Beach	0.4991	volleyball	1.2216	1101	San Bernardino	0.6956
+1	1082 m/s	0.5986	boxing	Modesto, Long Beach	0.9371	soccer, football	1.0141	775	Anaheim	0.8649
+1	1379 m/s	1.0203	track & field	Modesto, Long Beach	0.9496	soccer, volleyball	1.0145	626	San Diego	1.0349
+2	987 m/s	-0.0117	motor sports	Moreno Valley, Oakland	-0.1206	running, golf	1.4304	623	Fresno, Santa Clarita	1.1908
+0	875 m/s	0.4197	tennis	Santa Ana, Riverside, Irvine	0.4492	badminton	1.0815	-142	Fresno, Chula Vista, Fremont	0.6425
+2	1204 m/s	0.6431	volleyball	Moreno Valley, Los Angeles, Oakland	0.4968	baseball	0.5912	581	Fresno, Bakersfield	0.9672
+4	364 m/s	1.2072	soccer	Sacramento	1.0678	boxing, motor sports	0.3296	154	Anaheim, San Jose, Oakland	0.3662
+4	605 m/s	-0.0503	boxing	Sacramento	0.495	ice hockey, boxing, basketball	0.8359	234	Anaheim	0.9908
+3	495 m/s	0.1385	Football	Stockton, Fresno, Fremont, San Bernardino	0.7263	tennis	0.9447	-431	Modesto, Santa Ana	1.3889
+2	1015 m/s	0.1512	track & field	Los Angeles, Anaheim, Oakland	0.27	baseball	0.5995	557	Fresno, Santa Clarita, Fremont, Bakersfield, Chula Vista	0.9459
+3	886 m/s	0.1023	football	Santa Clarita, Chula Vista, Stockton, Bakersfield, San Francisco	0.6556	tennis	0.7384	907	Riverside, Los Angeles, Santa Ana, Stockton	1.227
